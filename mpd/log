@@ -1,0 +1,348 @@
+Oct 23 02:39 : exception: Failed to open /home/rlong/.config/mpd/state: No such file or directory
+Oct 23 02:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 02:39 : update: added /Initial D - No One Sleep In Tokyo.mp3
+Oct 23 02:39 : update: added /Initial D - Spaceboy.mp3
+Oct 23 02:39 : update: added /Initial D - Back On The Rocks.mp3
+Oct 23 02:39 : update: added /Initial D - Gas Gas Gas.mp3
+Oct 23 02:39 : update: added /Initial D - Get Me Power.mp3
+Oct 23 02:39 : update: added /Initial D - Running in The 90s.mp3
+Oct 23 02:39 : update: added /Initial D - Don't Stop The Music.mp3
+Oct 23 02:39 : update: added /Initial D - Deja Vu.mp3
+Oct 23 02:39 : update: added /Initial D - Beat Of The Rising Sun.mp3
+Oct 23 02:39 : update: added /Initial D - Night Of Fire.mp3
+Oct 23 02:43 : client: [0] opened from [::1]:51564
+Oct 23 02:44 : player: played "Initial D - Spaceboy.mp3"
+Oct 23 02:44 : exception: Not playing
+Oct 23 02:44 : exception: Not playing
+Oct 23 02:44 : player: played "Initial D - Back On The Rocks.mp3"
+Oct 23 02:44 : client: [0] closed
+Oct 23 02:44 : client: [1] opened from [::1]:51572
+Oct 23 02:48 : client: [1] closed
+Oct 23 02:49 : client: [2] opened from [::1]:51618
+Oct 23 02:49 : client: [2] closed
+Oct 23 02:49 : client: [3] opened from [::1]:51620
+Oct 23 02:49 : client: [3] closed
+Oct 23 02:50 : player: played "Initial D - Back On The Rocks.mp3"
+Oct 23 02:50 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Oct 23 02:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 02:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 02:54 : client: [0] opened from [::1]:59792
+Oct 23 02:55 : client: [0] closed
+Oct 23 02:56 : client: [1] opened from [::1]:59838
+Oct 23 02:56 : client: [1] closed
+Oct 23 02:56 : client: [2] opened from [::1]:59840
+Oct 23 02:56 : client: [2] closed
+Oct 23 02:57 : client: [3] opened from [::1]:59844
+Oct 23 02:57 : client: [3] closed
+Oct 23 02:57 : client: [4] opened from [::1]:59846
+Oct 23 02:57 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Oct 23 02:58 : client: [4] closed
+Oct 23 02:58 : client: [5] opened from [::1]:59850
+Oct 23 02:59 : client: [5] closed
+Oct 23 03:04 : player: played "Initial D - Deja Vu.mp3"
+Oct 23 03:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 03:11 : player: played "Initial D - Deja Vu.mp3"
+Oct 23 03:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 03:18 : player: played "Initial D - Deja Vu.mp3"
+Oct 23 03:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 03:18 : player: played "Initial D - Deja Vu.mp3"
+Oct 23 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 11:01 : client: [0] opened from [::1]:59898
+Oct 23 11:01 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:01 : exception: nested: failed to connect: Connection refused
+Oct 23 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 11:01 : exception: Failed to open audio output
+Oct 23 11:01 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:01 : exception: nested: failed to connect: Connection refused
+Oct 23 11:01 : exception: Failed to open audio output
+Oct 23 11:01 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:01 : exception: nested: failed to connect: Connection refused
+Oct 23 11:02 : player: played "Initial D - Deja Vu.mp3"
+Oct 23 11:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 11:14 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:14 : exception: nested: failed to connect: Connection refused
+Oct 23 11:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 11:14 : client: [0] opened from [::1]:52590
+Oct 23 11:14 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:14 : exception: nested: failed to connect: Connection refused
+Oct 23 11:14 : exception: Failed to open audio output
+Oct 23 11:14 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:14 : exception: nested: failed to connect: Connection refused
+Oct 23 11:15 : exception: Failed to open audio output
+Oct 23 11:15 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 11:15 : exception: nested: failed to connect: Connection refused
+Oct 23 11:15 : exception: Failed to open audio output
+Oct 23 11:15 : client: [0] closed
+Oct 23 11:17 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 23 13:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 13:01 : client: [0] opened from [::1]:51214
+Oct 23 13:02 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 13:02 : exception: nested: failed to connect: Connection refused
+Oct 23 13:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 13:02 : exception: Failed to open audio output
+Oct 23 13:02 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 13:02 : exception: nested: failed to connect: Connection refused
+Oct 23 13:02 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 13:02 : exception: nested: failed to connect: Connection refused
+Oct 23 13:02 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 23 13:02 : exception: nested: failed to connect: Connection refused
+Oct 23 13:02 : client: [0] closed
+Oct 23 13:02 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 24 14:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 14:27 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 24 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 14:56 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 24 18:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 18:55 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 24 20:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:15 : client: [0] opened from [::1]:47426
+Oct 24 20:15 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 24 20:15 : exception: nested: failed to connect: Connection refused
+Oct 24 20:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 20:15 : exception: Failed to open audio output
+Oct 24 20:15 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 24 20:15 : exception: nested: failed to connect: Connection refused
+Oct 24 20:15 : exception: Failed to open audio output
+Oct 24 20:16 : client: [0] closed
+Oct 24 20:26 : client: [1] opened from [::1]:47432
+Oct 24 20:26 : client: [1] closed
+Oct 24 20:26 : client: [2] opened from [::1]:47434
+Oct 24 20:26 : client: [2] closed
+Oct 24 20:28 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 25 16:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 25 16:01 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 26 20:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 20:10 : client: [0] opened from [::1]:43452
+Oct 26 20:11 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 26 20:11 : exception: nested: failed to connect: Connection refused
+Oct 26 20:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 20:11 : exception: Failed to open audio output
+Oct 26 20:11 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 26 20:11 : exception: nested: failed to connect: Connection refused
+Oct 26 20:11 : client: [0] closed
+Oct 26 20:11 : client: [1] opened from [::1]:43458
+Oct 26 20:11 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 26 20:11 : exception: nested: failed to connect: Connection refused
+Oct 26 20:11 : client: [1] closed
+Oct 26 20:12 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 26 20:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 20:40 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 26 21:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 21:21 : player: played "Initial D - Gas Gas Gas.mp3"
+Oct 26 22:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 22:06 : client: [0] opened from [::1]:35642
+Oct 26 22:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 00:54 : client: [0] closed
+Oct 27 00:54 : player: played "Initial D - Spaceboy.mp3"
+Oct 27 01:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 01:16 : client: [0] opened from [::1]:48260
+Oct 27 01:16 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 01:16 : exception: nested: failed to connect: Connection refused
+Oct 27 01:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 01:16 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 01:16 : exception: nested: failed to connect: Connection refused
+Oct 27 01:16 : exception: Failed to open audio output
+Oct 27 01:16 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 01:16 : exception: nested: failed to connect: Connection refused
+Oct 27 01:17 : client: [0] closed
+Oct 27 01:17 : player: played "Initial D - Spaceboy.mp3"
+Oct 27 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 01:46 : client: [0] opened from [::1]:52670
+Oct 27 01:46 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 01:46 : exception: nested: failed to connect: Connection refused
+Oct 27 01:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 01:46 : exception: Failed to open audio output
+Oct 27 01:46 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 01:46 : exception: nested: failed to connect: Connection refused
+Oct 27 01:47 : client: [0] closed
+Oct 27 01:47 : player: played "Initial D - Spaceboy.mp3"
+Oct 27 02:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 02:10 : client: [0] opened from [::1]:42236
+Oct 27 02:10 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 02:10 : exception: nested: failed to connect: Connection refused
+Oct 27 02:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 02:10 : exception: Failed to open audio output
+Oct 27 02:10 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 02:10 : exception: nested: failed to connect: Connection refused
+Oct 27 02:10 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Oct 27 02:10 : exception: nested: failed to connect: Connection refused
+Oct 27 02:19 : client: [0] closed
+Oct 27 02:19 : client: [1] opened from [::1]:42246
+Oct 27 02:20 : client: [1] closed
+Oct 27 02:20 : client: [2] opened from [::1]:42248
+Oct 27 02:20 : client: [2] closed
+Oct 27 02:20 : player: played "Initial D - Back On The Rocks.mp3"
+Oct 27 03:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 03:24 : client: [0] opened from [::1]:36298
+Oct 27 03:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 03:27 : client: [0] closed
+Oct 27 10:58 : client: [1] opened from [::1]:37276
+Oct 27 11:00 : client: [1] closed
+Oct 27 11:02 : player: played "Initial D - Back On The Rocks.mp3"
+Oct 27 11:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 27 11:07 : player: played "Initial D - Back On The Rocks.mp3"
+Oct 28 15:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 28 15:10 : client: [0] opened from [::1]:47662
+Oct 28 15:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 28 15:11 : client: [0] closed
+Oct 28 15:11 : client: [1] opened from [::1]:47666
+Oct 28 15:11 : client: [1] closed
+Oct 28 15:11 : client: [2] opened from [::1]:47668
+Oct 28 15:12 : client: [2] closed
+Oct 28 15:13 : player: played "Initial D - Spaceboy.mp3"
+Nov 03 23:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 02:28 : player: played "Initial D - Spaceboy.mp3"
+Nov 04 02:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 22:55 : player: played "Initial D - Spaceboy.mp3"
+Nov 04 22:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 17:00 : player: played "Initial D - Spaceboy.mp3"
+Nov 05 17:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 18:03 : client: [0] opened from [::1]:38070
+Nov 05 18:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 18:04 : client: [0] closed
+Nov 05 18:07 : client: [1] opened from [::1]:38116
+Nov 05 18:07 : client: [1] closed
+Nov 05 18:08 : player: played "Initial D - Spaceboy.mp3"
+Nov 06 00:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 12:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 14:12 : client: [0] opened from [::1]:48834
+Nov 06 14:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 14:13 : client: [0] closed
+Nov 07 19:55 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 07 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 20:57 : client: [0] opened from [::1]:45636
+Nov 07 20:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 21:00 : client: [0] closed
+Nov 07 21:00 : exception: "Local Music Player Daemon" [pulse] failed to play: disconnected
+Nov 07 21:00 : player: played "Initial D - Spaceboy.mp3"
+Nov 08 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 11:00 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 08 11:00 : exception: nested: failed to connect: Connection refused
+Nov 08 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 11:00 : player: played "Initial D - Spaceboy.mp3"
+Nov 08 19:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 19:26 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 08 19:26 : exception: nested: failed to connect: Connection refused
+Nov 08 19:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 19:30 : player: played "Initial D - Spaceboy.mp3"
+Nov 08 19:35 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 08 19:39 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Nov 08 19:43 : player: played "Initial D - Deja Vu.mp3"
+Nov 08 19:48 : player: played "Initial D - Don't Stop The Music.mp3"
+Nov 08 19:52 : player: played "Initial D - Gas Gas Gas.mp3"
+Nov 08 19:53 : exception: "Local Music Player Daemon" [pulse] failed to play: disconnected
+Nov 08 19:53 : player: played "Initial D - Get Me Power.mp3"
+Nov 09 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 20:06 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 09 20:06 : exception: nested: failed to connect: Connection refused
+Nov 09 20:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 20:10 : player: played "Initial D - Get Me Power.mp3"
+Nov 09 20:14 : exception: "Local Music Player Daemon" [pulse] failed to play: disconnected
+Nov 09 20:14 : player: played "Initial D - Night Of Fire.mp3"
+Nov 09 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 20:27 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 09 20:27 : exception: nested: failed to connect: Connection refused
+Nov 09 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 20:29 : player: played "Initial D - Night Of Fire.mp3"
+Nov 09 20:29 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 09 20:29 : exception: nested: failed to connect: Connection refused
+Nov 09 20:33 : player: played "Initial D - No One Sleep In Tokyo.mp3"
+Nov 09 20:33 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 09 20:33 : exception: nested: failed to connect: Connection refused
+Nov 09 20:38 : player: played "Initial D - Running in The 90s.mp3"
+Nov 10 11:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 11:33 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 10 11:33 : exception: nested: failed to connect: Connection refused
+Nov 10 11:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 11:34 : player: played "Initial D - Running in The 90s.mp3"
+Nov 10 11:39 : player: played "Initial D - Spaceboy.mp3"
+Nov 10 11:40 : exception: "Local Music Player Daemon" [pulse] failed to play: disconnected
+Nov 10 11:40 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 10 11:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 11:42 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 10 11:42 : exception: nested: failed to connect: Connection refused
+Nov 10 11:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 11:46 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 10 11:50 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Nov 10 11:50 : exception: "Local Music Player Daemon" [pulse] failed to play: disconnected
+Nov 10 11:50 : player: played "Initial D - Deja Vu.mp3"
+Nov 11 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:38 : exception: Failed to open "Local Music Player Daemon" [pulse]
+Nov 11 12:38 : exception: nested: failed to connect: Connection refused
+Nov 11 12:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:42 : player: played "Initial D - Deja Vu.mp3"
+Nov 11 12:47 : player: played "Initial D - Don't Stop The Music.mp3"
+Nov 11 12:52 : player: played "Initial D - Gas Gas Gas.mp3"
+Nov 11 12:57 : player: played "Initial D - Get Me Power.mp3"
+Nov 11 13:02 : player: played "Initial D - Night Of Fire.mp3"
+Nov 11 13:07 : player: played "Initial D - No One Sleep In Tokyo.mp3"
+Nov 11 13:12 : player: played "Initial D - Running in The 90s.mp3"
+Nov 11 13:17 : player: played "Initial D - Spaceboy.mp3"
+Nov 11 13:22 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 11 13:26 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Nov 11 13:30 : player: played "Initial D - Deja Vu.mp3"
+Nov 11 13:35 : player: played "Initial D - Don't Stop The Music.mp3"
+Nov 11 13:39 : player: played "Initial D - Gas Gas Gas.mp3"
+Nov 11 13:45 : player: played "Initial D - Get Me Power.mp3"
+Nov 11 13:50 : player: played "Initial D - Night Of Fire.mp3"
+Nov 11 13:55 : player: played "Initial D - No One Sleep In Tokyo.mp3"
+Nov 11 14:00 : player: played "Initial D - Running in The 90s.mp3"
+Nov 11 14:04 : client: [0] opened from [::1]:34662
+Nov 11 14:04 : client: [0] closed
+Nov 13 16:21 : player: played "Initial D - Spaceboy.mp3"
+Nov 15 16:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 16:01 : player: played "Initial D - Spaceboy.mp3"
+Nov 15 19:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 19:49 : player: played "Initial D - Spaceboy.mp3"
+Nov 15 19:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 19:51 : player: played "Initial D - Spaceboy.mp3"
+Nov 16 19:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 19:17 : player: played "Initial D - Spaceboy.mp3"
+Nov 18 16:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 16:55 : player: played "Initial D - Spaceboy.mp3"
+Nov 21 13:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 14:31 : player: played "Initial D - Spaceboy.mp3"
+Nov 21 16:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 16:37 : client: [0] opened from [::1]:53888
+Nov 21 16:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 16:44 : client: [0] closed
+Nov 21 16:45 : client: [1] opened from [::1]:54012
+Nov 21 16:46 : player: played "Initial D - Beat Of The Rising Sun.mp3"
+Nov 21 16:46 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 21 16:46 : player: played "Initial D - Back On The Rocks.mp3"
+Nov 21 16:47 : client: [1] closed
+Nov 21 16:48 : player: played "Initial D - Spaceboy.mp3"
+Nov 21 17:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 17:57 : client: [0] opened from [::1]:48864
+Nov 21 17:58 : player: played "Initial D - Spaceboy.mp3"
+Nov 22 14:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 14:11 : player: played "Initial D - Spaceboy.mp3"
+Nov 27 15:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 16:59 : player: played "Initial D - Spaceboy.mp3"
+Nov 27 19:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 19:16 : player: played "Initial D - Spaceboy.mp3"
+Nov 27 20:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 14:15 : player: played "Initial D - Spaceboy.mp3"
+Nov 29 17:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 19:02 : player: played "Initial D - Spaceboy.mp3"
+Nov 29 20:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:12 : player: played "Initial D - Spaceboy.mp3"
+Nov 29 22:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 13:32 : player: played "Initial D - Spaceboy.mp3"
+Dec 10 12:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+                                                         Dec 10 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 22:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 23 16:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 15:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 15:48 : client: [0] opened from [::1]:45570
+Jan 06 15:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 15:49 : client: [0] closed
+Jan 06 15:49 : client: [1] opened from [::1]:45574
+Jan 06 15:49 : client: [1] closed
+Jan 06 15:49 : player: played "Initial D - Back On The Rocks.mp3"
+Jan 06 19:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 19:01 : player: played "Initial D - Back On The Rocks.mp3"
+Feb 01 19:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 19:12 : player: played "Initial D - Back On The Rocks.mp3"
+Mar 23 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

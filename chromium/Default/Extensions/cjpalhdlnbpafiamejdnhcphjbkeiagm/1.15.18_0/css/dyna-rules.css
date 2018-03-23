@@ -1,0 +1,111 @@
+body {
+    bottom: 0;
+    display: flex;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    flex-direction: column;
+    }
+#diff {
+    border: 0;
+    border-top: 1px solid #eee;
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+#diff .tools > * {
+    margin-bottom: 0.5em;
+    }
+#diff .tools .fa {
+    font-size: large;
+    }
+#diff .ruleActions {
+    border: 0;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0;
+    text-align: center;
+    vertical-align: top;
+    width: 50%;
+    }
+#diff .ruleActions h3 {
+    font-weight: normal;
+    margin: 0.5em 0;
+    }
+#diff .ruleFilter {
+    text-align: center;
+    }
+body[dir="ltr"] #revertButton:after {
+    content: '\2009\f061';
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+    }
+body[dir="rtl"] #revertButton:after {
+    content: '\2009\f060';
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+    }
+body[dir="ltr"] #commitButton:before {
+    content: '\f060\2009';
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+    }
+body[dir="rtl"] #commitButton:before {
+    content: '\f061\2009';
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+    }
+#revertButton,
+#commitButton,
+#diff.editing #exportButton,
+#diff.editing #importButton,
+#editSaveButton {
+    opacity: 0.25;
+    pointer-events: none;
+    }
+#diff.dirty:not(.editing) #revertButton,
+#diff.dirty:not(.editing) #commitButton,
+#diff.editing #editSaveButton {
+    opacity: 1;
+    pointer-events: auto;
+    }
+
+.codeMirrorContainer {
+    height: 60vh;
+    }
+.CodeMirror-merge, .CodeMirror-merge-pane, .CodeMirror-merge .CodeMirror {
+    box-sizing: border-box;
+    height: 100%;
+    }
+#diff.editing .CodeMirror-merge-copy,
+#diff.editing .CodeMirror-merge-copy-reverse {
+    display: none;
+    }
+#diff.editing .CodeMirror-merge-left .CodeMirror {
+    color: #888;
+    }
+#diff.editing .CodeMirror-merge-editor .CodeMirror {
+    background-color: #ffe;
+    }
+body[dir="rtl"] .CodeMirror-merge-pane-rightmost {
+    right: unset;
+    left: 0;
+}

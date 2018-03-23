@@ -1,0 +1,353 @@
+{
+   "checksum": "dbc8941aeb4c7c00fc1303907efa8610",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13148510384185501",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13148583997592800"
+               },
+               "name": "Schedule",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "file:///C:/Users/rafil/Documents/Scedules/schedule.pdf"
+            }, {
+               "date_added": "13148510399244466",
+               "id": "25",
+               "meta_info": {
+                  "last_visited": "13155060551737762",
+                  "last_visited_desktop": "13157515555440409"
+               },
+               "name": "Compass",
+               "sync_transaction_version": "63",
+               "type": "url",
+               "url": "https://compass2g.illinois.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1"
+            }, {
+               "date_added": "13149130269837921",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13151478887996749"
+               },
+               "name": "Calendar",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://registrar.illinois.edu/fall-academic-calendar-17"
+            }, {
+               "children": [ {
+                  "date_added": "13148583388682334",
+                  "id": "35",
+                  "meta_info": {
+                     "last_visited": "13157143905815906",
+                     "last_visited_desktop": "13157527926786109"
+                  },
+                  "name": "CS 125",
+                  "sync_transaction_version": "66",
+                  "type": "url",
+                  "url": "https://cs125.cs.illinois.edu/"
+               }, {
+                  "date_added": "13148583398609751",
+                  "id": "36",
+                  "meta_info": {
+                     "last_visited": "13157143908406038",
+                     "last_visited_desktop": "13157503833395791"
+                  },
+                  "name": "CS 125 Forum",
+                  "sync_transaction_version": "63",
+                  "type": "url",
+                  "url": "https://cs125.cs.illinois.edu/forum/"
+               }, {
+                  "date_added": "13149025908654781",
+                  "id": "37",
+                  "meta_info": {
+                     "last_visited_desktop": "13156880747749715"
+                  },
+                  "name": "CodeLab",
+                  "sync_transaction_version": "54",
+                  "type": "url",
+                  "url": "https://codelab3.turingscraft.com/codelab/jsp/core_dhtml.jsp"
+               }, {
+                  "date_added": "13149381010467975",
+                  "id": "38",
+                  "meta_info": {
+                     "last_visited": "13157056248847011",
+                     "last_visited_desktop": "13157505091279071"
+                  },
+                  "name": "CS 125 Feedback",
+                  "sync_transaction_version": "65",
+                  "type": "url",
+                  "url": "http://cs125class.web.engr.illinois.edu/feedback.php"
+               }, {
+                  "date_added": "13151027977751996",
+                  "id": "39",
+                  "meta_info": {
+                     "last_visited_desktop": "13157442101046898"
+                  },
+                  "name": "Subversion",
+                  "sync_transaction_version": "58",
+                  "type": "url",
+                  "url": "https://subversion.ews.illinois.edu/svn/fa17-cs125/rjlong2/"
+               } ],
+               "date_added": "13153090093568229",
+               "date_modified": "13157506450730904",
+               "id": "27",
+               "name": "CS 125",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13149129757122226",
+                  "id": "33",
+                  "meta_info": {
+                     "last_visited": "13153292908268268",
+                     "last_visited_desktop": "13157579844220683"
+                  },
+                  "name": "CS196-25",
+                  "sync_transaction_version": "68",
+                  "type": "url",
+                  "url": "https://relate.cs.illinois.edu/course/cs196-fa17/"
+               }, {
+                  "date_added": "13149200655924542",
+                  "id": "34",
+                  "meta_info": {
+                     "last_visited_desktop": "13157434055164406"
+                  },
+                  "name": "CS 196 Github",
+                  "sync_transaction_version": "56",
+                  "type": "url",
+                  "url": "https://github.com/CS196Illinois/"
+               } ],
+               "date_added": "13153090093568235",
+               "date_modified": "13154642898300960",
+               "id": "28",
+               "name": "CS 196",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13148675049183394",
+                  "id": "30",
+                  "meta_info": {
+                     "last_visited": "13153340021442826",
+                     "last_visited_desktop": "13155340340980807"
+                  },
+                  "name": "Math 241 Syllabus",
+                  "sync_transaction_version": "45",
+                  "type": "url",
+                  "url": "https://faculty.math.illinois.edu/~clein/241F17.html"
+               }, {
+                  "date_added": "13148675019515316",
+                  "id": "31",
+                  "meta_info": {
+                     "last_visited": "13157140406254522",
+                     "last_visited_desktop": "13157585088958044"
+                  },
+                  "name": "Math 241 Schedule",
+                  "sync_transaction_version": "67",
+                  "type": "url",
+                  "url": "https://faculty.math.illinois.edu/~clein/241F17schedule.html"
+               }, {
+                  "date_added": "13149051252392772",
+                  "id": "32",
+                  "meta_info": {
+                     "last_visited_desktop": "13157510899030859"
+                  },
+                  "name": "WebAssign",
+                  "sync_transaction_version": "63",
+                  "type": "url",
+                  "url": "https://www.webassign.net/uiuc/login.html"
+               } ],
+               "date_added": "13153090093568240",
+               "date_modified": "13157563525790669",
+               "id": "29",
+               "name": "Math 241",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            } ],
+            "date_added": "13153090093567570",
+            "date_modified": "13157504641442733",
+            "id": "21",
+            "name": "School",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13146818333152211",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13149713372410762"
+               },
+               "name": "Health",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mho.sutterhealth.org/index.html?fromURI=https%3a%2f%2fmyhealthonline%2esutterhealth%2eorg%2fmho%2f"
+            } ],
+            "date_added": "13153090093567813",
+            "date_modified": "13153090093567813",
+            "id": "22",
+            "name": "Life",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13153090032016429",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13077744329097000",
+            "id": "15",
+            "name": "Gotta go fast. · VoiDeD/steamstatus@35b96d1",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/VoiDeD/steamstatus/commit/35b96d14d0e4d81746660f0d1462a98db48b8cc7"
+         }, {
+            "date_added": "13109546739950476",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13136414999689495"
+            },
+            "name": "Undertale Remixes by Alex Tarng | Free Listening on SoundCloud",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://soundcloud.com/alex-tarng/sets/undertale-remixes"
+         }, {
+            "date_added": "13120000397458506",
+            "id": "17",
+            "name": "Elon Musk, CEO of Tesla and SpaceX, Wants to Change How (and Where) Humans Live - Vogue",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.vogue.com/13349221/elon-musk-profile-entrepreneur-spacex-tesla-motors/"
+         }, {
+            "date_added": "13137265963155507",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13137661291704714"
+            },
+            "name": "Physics 213 Homeworks",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://pages.physics.cornell.edu/courses/p213/homeworks/index.html"
+         }, {
+            "date_added": "13137474657572318",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13137474657580451"
+            },
+            "name": "dV Map",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://i.imgur.com/RtGIuix.png"
+         }, {
+            "date_added": "13137479145244563",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13137479145245262"
+            },
+            "name": "KerbalX - Asymmetry Rules",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://kerbalx.com/blakemw/Asymmetry-Rules"
+         } ],
+         "date_added": "13153090032016435",
+         "date_modified": "13137479145244563",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "68",
+      "synced": {
+         "children": [ {
+            "date_added": "13068620764483000",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13143442350630641",
+               "last_visited_desktop": "13155542398195358"
+            },
+            "name": "Steam",
+            "sync_transaction_version": "45",
+            "type": "url",
+            "url": "http://store.steampowered.com/"
+         }, {
+            "date_added": "13068620744173000",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13139979780110735",
+               "last_visited_desktop": "13143535156896006"
+            },
+            "name": "Infinite Campus",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ic.pausd.org/campus/portal/paloalto.jsp"
+         }, {
+            "date_added": "13068620718469000",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13149367765618293",
+               "last_visited_desktop": "13155892226716340"
+            },
+            "name": "xkcd",
+            "sync_transaction_version": "46",
+            "type": "url",
+            "url": "http://xkcd.com/"
+         }, {
+            "date_added": "13070047379286000",
+            "id": "9",
+            "name": "Getting Started | Android Developers",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://developer.android.com/training/index.html"
+         }, {
+            "date_added": "13102324039396895",
+            "id": "10",
+            "name": "Elite Song Parodies",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BFOTqi_VDEs&list=PLclnxmO431HD8vdhLmE7WDvYQREs8MCP6&index=7"
+         }, {
+            "date_added": "13102324063937258",
+            "id": "11",
+            "name": "Raid the Arcade",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0_1IMZmJe-U&list=PLjhBFiha4tzkFGbfe2Sjsa0M303Fg5T76"
+         }, {
+            "date_added": "13108759027309449",
+            "id": "12",
+            "name": "c4VZPIA.jpg (1280×960)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://i.imgur.com/c4VZPIA.jpg"
+         }, {
+            "date_added": "13138416523430655",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13138416523894999"
+            },
+            "name": "SlabServer DIscord",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://discordapp.com/invite/FCSYMYX"
+         }, {
+            "date_added": "13143581894527914",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13143581894536286"
+            },
+            "name": "589: Tell Me I’m Fat",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.thisamericanlife.org/radio-archives/episode/589/tell-me-im-fat"
+         } ],
+         "date_added": "13153090032016435",
+         "date_modified": "13156272286840225",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

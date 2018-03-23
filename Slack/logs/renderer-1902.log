@@ -1,0 +1,32 @@
+[12/23/17, 16:30:50:930] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[12/23/17, 16:30:50:932] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/23/17, 16:30:50:923      ║
+[12/23/17, 16:30:50:933] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[12/23/17, 16:30:51:171] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[12/23/17, 16:30:51:953] info: WebViewLifeCycle: Creating subscribable lifecycle object
+{ objectId: 'T771AR265', assignedId: 1 }
+[12/23/17, 16:30:51:955] info: WebView LifeCycle: New webview component created for T771AR265:1', with state 'unloaded'
+[12/23/17, 16:30:51:961] info: TeamsDisplay: T771AR265 usage: 0
+[12/23/17, 16:30:51:963] info: Store: SET_NETWORK_STATUS offline
+[12/23/17, 16:30:52:094] info: Store: SET_NETWORK_STATUS
+{ updated: { app: { networkStatus: 'offline' } } }
+[12/23/17, 16:30:52:099] info: TeamsDisplay: Team T771AR265 was active for 137ms
+[12/23/17, 16:30:52:101] info: Store: UPDATE_TEAM_USAGE
+{ T771AR265: 137 }
+[12/23/17, 16:30:52:105] info: WebViewLifeCycle: State changed
+{ id: 'T771AR265',
+  componentId: 1,
+  newState: 'component-disposed',
+  data: null }
+[12/23/17, 16:30:52:106] info: WebViewLifeCycle: Removing lifecycle object from storage
+{ componentId: 1, id: 'T771AR265' }
+[12/23/17, 16:30:52:118] warn: Base Component: Attempting to update TeamsDisplay when unmounted.
+[12/23/17, 16:30:52:120] warn: Base Component: Attempting to update TeamView when unmounted.
+[12/23/17, 16:30:52:121] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[12/23/17, 16:30:52:123] warn: Base Component: Attempting to update WebViewLifeCycleComponent when unmounted.
+[12/23/17, 16:30:52:124] warn: Base Component: Attempting to update DoomedError when unmounted.
+[12/23/17, 16:30:52:128] info: Store: APP_STARTED
+{ updated: { events: { eventId: 1 } } }
+[12/23/17, 16:30:52:221] info: Store: UPDATE_TEAM_USAGE
+{ updated: { teams: { T771AR265: [Object] } } }
+[12/23/17, 16:30:52:990] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }

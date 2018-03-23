@@ -1,0 +1,2011 @@
+[11/05/17, 17:27:55:348] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[11/05/17, 17:27:55:350] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/05/17, 17:27:55:341      ║
+[11/05/17, 17:27:55:351] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[11/05/17, 17:27:55:538] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[11/05/17, 17:27:55:712] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[11/05/17, 17:27:55:897] warn: BrowserStore: Couldn't access keychain, make note of it
+[11/05/17, 17:27:55:902] info: Store: persist/REHYDRATE
+[11/05/17, 17:27:55:905] info: BrowserStore: Let's migrate Redux state
+[11/05/17, 17:27:55:906] info: Initializing local storage instance at path: /home/rlong/.config/Slack/redux-state.json
+[11/05/17, 17:27:55:907] info: BrowserStore: Finished migration, make a note of it
+[11/05/17, 17:27:55:910] info: Store: COMPLETED
+{ redux: true, macgap: false }
+[11/05/17, 17:27:55:956] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[11/05/17, 17:27:56:046] info: Tray Handler: Showing a tray balloon with title: Welcome to Slack!
+[11/05/17, 17:27:56:051] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[11/05/17, 17:27:56:055] info: Store: UPDATE_SETTINGS
+{ hasRunApp: true }
+[11/05/17, 17:27:56:063] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/05/17, 17:27:56:067] info: Loading windowMetrics
+[11/05/17, 17:27:56:069] info: Store: SAVE_WINDOW_SETTINGS
+{ position: [ 384, 108 ], size: [ 1152, 864 ] }
+[11/05/17, 17:27:56:085] info: Store: UPDATE_SETTINGS
+{ PrefSSBFileDownloadPath: '/home/rlong/Downloads' }
+[11/05/17, 17:27:56:092] info: DownloadListener: Downloads directory set to /home/rlong/Downloads
+[11/05/17, 17:27:56:095] info: App: Welcome to Slack 2.8.2 x64
+[11/05/17, 17:27:56:096] info: App load time: 846ms
+[11/05/17, 17:27:56:098] info: Store: SET_FULL_SCREEN
+[11/05/17, 17:27:57:091] info: Store: SET_NETWORK_STATUS online
+[11/05/17, 17:27:57:105] info: Main window finished load. Launched on login: false
+[11/05/17, 17:27:57:110] info: Store: APP_STARTED
+[11/05/17, 17:27:58:110] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 317 ], position: [ 22, 714 ], isMaximized: false }
+[11/05/17, 17:28:01:149] info: Store: page-loaded
+[11/05/17, 17:28:01:907] info: Attempted to close the window, hiding due to run from tray
+[11/05/17, 17:28:01:912] info: Store: UPDATE_SETTINGS
+{ hasRunFromTray: true }
+[11/05/17, 17:28:01:918] info: Store: SHOW_TRAY_BALLOON
+{ title: 'Why didn’t Slack quit?',
+  content: 'Slack’s set to stay running in the notification area. To change this, visit Preferences > Linux App.' }
+[11/05/17, 17:28:01:924] info: Tray Handler: Showing a tray balloon with title: Why didn’t Slack quit?
+[11/05/17, 17:28:01:944] info: Store: SET_FULL_SCREEN
+[11/05/17, 17:28:07:910] info: Main: Received /usr/bin/slack,--disable-gpu from another instance
+[11/05/17, 17:28:07:911] info: App: Otherwise signaled, foregrounding.
+[11/05/17, 17:28:07:912] info: Store: FOREGROUND_APP
+[11/05/17, 17:28:08:922] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[11/05/17, 17:28:21:335] info: Store: page-loaded
+[11/05/17, 17:28:32:918] info: Store: ADD_NEW_TEAM
+{ id: 'U77PR92AW',
+  name: '[REDACTED]',
+  team_id: 'T771AR265',
+  team_name: '[REDACTED]',
+  team_url: '[REDACTED]' }
+[11/05/17, 17:28:32:933] info: Store: SET_LOGIN_DIALOG
+[11/05/17, 17:28:37:659] info: Store: page-loaded
+[11/05/17, 17:28:37:848] info: Store: SELECT_CHANNEL C77LNDZ1B
+[11/05/17, 17:28:37:858] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[11/05/17, 17:28:37:879] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T771AR265' }
+[11/05/17, 17:28:38:962] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[11/05/17, 17:28:39:486] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[11/05/17, 17:28:39:506] info: Store: webapp-loaded
+[11/05/17, 17:28:39:706] info: Store: [7] Store an API token for a team
+[11/05/17, 17:28:41:557] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/05/17, 17:32:56:795] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[11/05/17, 17:32:56:797] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/05/17, 17:32:56:788      ║
+[11/05/17, 17:32:56:797] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[11/05/17, 17:32:56:998] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[11/05/17, 17:32:57:174] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[11/05/17, 17:32:57:323] info: BrowserStore: Keychain access previously denied, don't ask again
+[11/05/17, 17:32:57:333] info: Store: persist/REHYDRATE
+[11/05/17, 17:32:57:355] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[11/05/17, 17:32:57:439] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[11/05/17, 17:32:57:449] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/05/17, 17:32:57:453] info: Loading windowMetrics
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[11/05/17, 17:32:57:470] info: App: Welcome to Slack 2.8.2 x64
+[11/05/17, 17:32:57:471] info: App load time: 780ms
+[11/05/17, 17:32:57:473] info: Store: SET_FULL_SCREEN
+[11/05/17, 17:32:58:663] info: Store: SET_NETWORK_STATUS online
+[11/05/17, 17:32:58:674] info: Main window finished load. Launched on login: false
+[11/05/17, 17:32:58:683] info: Store: APP_STARTED
+[11/05/17, 17:32:59:682] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 606, 1009 ],
+  position: [ 1292, 22 ],
+  isMaximized: false }
+[11/05/17, 17:33:01:174] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[11/05/17, 17:33:03:357] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/05/17, 17:33:03:364] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/05/17, 17:33:04:502] info: Store: page-loaded
+[11/05/17, 17:33:04:803] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[11/05/17, 17:33:05:302] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[11/05/17, 17:33:05:322] info: Store: webapp-loaded
+[11/05/17, 17:33:05:451] info: Store: [7] Store an API token for a team
+[11/05/17, 17:33:05:471] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T771AR265' }
+[11/05/17, 17:47:14:866] info: Store: NEW_NOTIFICATION
+{ id: 'AnZoT9hYW9ZgvAB',
+  title: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1509922036.000090&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1509922036.000090',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 12:58:09:972] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[11/11/17, 12:58:09:974] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/11/17, 12:58:09:960      ║
+[11/11/17, 12:58:09:975] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[11/11/17, 12:58:10:190] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[11/11/17, 12:58:10:391] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[11/11/17, 12:58:10:570] info: BrowserStore: Keychain access previously denied, don't ask again
+[11/11/17, 12:58:10:582] info: Store: persist/REHYDRATE
+[11/11/17, 12:58:10:605] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[11/11/17, 12:58:10:695] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[11/11/17, 12:58:10:711] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/11/17, 12:58:10:716] info: Loading windowMetrics
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[11/11/17, 12:58:10:739] info: App: Welcome to Slack 2.8.2 x64
+[11/11/17, 12:58:10:740] info: App load time: 894ms
+[11/11/17, 12:58:10:742] info: Store: SET_FULL_SCREEN
+[11/11/17, 12:58:12:013] info: Store: SET_NETWORK_STATUS online
+[11/11/17, 12:58:12:024] info: Main window finished load. Launched on login: false
+[11/11/17, 12:58:12:033] info: Store: APP_STARTED
+[11/11/17, 12:58:13:032] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 616, 1009 ],
+  position: [ 652, 22 ],
+  isMaximized: false }
+[11/11/17, 12:58:16:413] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/11/17, 12:58:16:425] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/11/17, 12:58:16:546] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[11/11/17, 12:58:17:276] info: Store: page-loaded
+[11/11/17, 12:58:17:672] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[11/11/17, 12:58:18:146] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[11/11/17, 12:58:18:166] info: Store: webapp-loaded
+[11/11/17, 12:58:18:355] info: Store: [7] Store an API token for a team
+[11/11/17, 12:58:18:387] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T771AR265' }
+[11/11/17, 13:02:00:205] info: Store: SELECT_CHANNEL C77LNDZ1B
+[11/11/17, 13:24:41:756] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/11/17, 13:27:07:318] info: Store: NEW_NOTIFICATION
+{ id: 'lY4VUohqPY0XQXg',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510428429.000039&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510428429.000039',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 13:28:44:958] info: Store: NEW_NOTIFICATION
+{ id: 'xk4NCLiw1WnJl2j',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510428526.000070&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510428526.000070',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 13:31:38:768] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[11/11/17, 13:31:40:260] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[11/11/17, 13:31:42:247] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[11/11/17, 14:02:29:034] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[11/11/17, 14:02:29:402] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[11/11/17, 14:06:11:876] info: Attempted to close the window, hiding due to run from tray
+[11/11/17, 14:06:11:908] info: Store: SET_FULL_SCREEN
+[11/11/17, 14:33:56:080] info: Main: Received /usr/bin/slack,--disable-gpu from another instance
+[11/11/17, 14:33:56:083] info: App: Otherwise signaled, foregrounding.
+[11/11/17, 14:33:56:084] info: Store: FOREGROUND_APP
+[11/11/17, 14:33:57:096] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[11/11/17, 14:51:24:113] info: Store: NEW_NOTIFICATION
+{ id: '9rM7SRsO91AOy9Y',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D7YNQJCHZ&message=1510433486.000008&team=T771AR265',
+  imageUri: null,
+  channel: 'D7YNQJCHZ',
+  msg: '1510433486.000008',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 14:51:35:110] info: Store: NEW_NOTIFICATION
+{ id: '73K7sWtNDRJNv53',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D7YNQJCHZ&message=1510433497.000010&team=T771AR265',
+  imageUri: null,
+  channel: 'D7YNQJCHZ',
+  msg: '1510433497.000010',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 14:51:48:712] info: Store: NEW_NOTIFICATION
+{ id: 'zpjNS4uKPwzoKrG',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D7YNQJCHZ&message=1510433510.000103&team=T771AR265',
+  imageUri: null,
+  channel: 'D7YNQJCHZ',
+  msg: '1510433510.000103',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 14:53:40:002] info: Store: NEW_NOTIFICATION
+{ id: 'gJ4VCwC307D7YMP',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510433622.000009&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510433622.000009',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77MK6VSP-gee1730e9df1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 14:56:30:749] info: Store: NEW_NOTIFICATION
+{ id: 'NkAnCEFRo06VgrE',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510433793.000004&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510433793.000004',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:00:33:131] info: Store: NEW_NOTIFICATION
+{ id: 'zpjNSnHKPwzJJW7',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434035.000036&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434035.000036',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77MK6VSP-gee1730e9df1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:02:46:677] info: Store: NEW_NOTIFICATION
+{ id: '9rM7SrIO91ABv2K',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434168.000069&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434168.000069',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:04:43:456] info: Store: SELECT_CHANNEL D7YNQJCHZ
+[11/11/17, 15:05:14:564] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/11/17, 15:08:41:070] info: Store: NEW_NOTIFICATION
+{ id: 'R6GrioSO5o8p14J',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434522.000085&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434522.000085',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77MK6VSP-gee1730e9df1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:10:18:910] info: Store: NEW_NOTIFICATION
+{ id: 'v247ivTAx540o7P',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434620.000098&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434620.000098',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:10:20:806] info: Store: NEW_NOTIFICATION
+{ id: 'ERo7tKUPWQ60Q7A',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D7YNQJCHZ&message=1510434622.000067&team=T771AR265',
+  imageUri: null,
+  channel: 'D7YNQJCHZ',
+  msg: '1510434622.000067',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:10:30:762] info: Store: NEW_NOTIFICATION
+{ id: '2kBACoc2kMJO84R',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434632.000118&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434632.000118',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:10:47:665] info: Store: SELECT_CHANNEL D7YNQJCHZ
+[11/11/17, 15:10:53:036] info: Store: SELECT_CHANNEL C77RWFEE8
+[11/11/17, 15:12:07:936] info: Store: NEW_NOTIFICATION
+{ id: 'gJ4VCgf307D45y6',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434729.000097&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434729.000097',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:13:49:887] info: Store: NEW_NOTIFICATION
+{ id: 'rk4NCLhyANorwZ6',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434831.000082&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434831.000082',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77MK6VSP-gee1730e9df1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:14:07:015] info: Store: NEW_NOTIFICATION
+{ id: 'jR4VtPi7vnmOl69',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434849.000013&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434849.000013',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77MK6VSP-gee1730e9df1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:15:05:739] info: Store: NEW_NOTIFICATION
+{ id: 'ERo7t9sPWQ6jrwB',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434907.000064&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434907.000064',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:15:57:654] info: Store: NEW_NOTIFICATION
+{ id: 'G6q7igtQx0q4Qgk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D7YNQJCHZ&message=1510434959.000096&team=T771AR265',
+  imageUri: null,
+  channel: 'D7YNQJCHZ',
+  msg: '1510434959.000096',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:16:27:574] info: Store: NEW_NOTIFICATION
+{ id: 'lY4VUyuqPYRAmlz',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510434989.000071&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510434989.000071',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:16:59:342] info: Store: NEW_NOTIFICATION
+{ id: '1wAzs7CXx19wv07',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510435021.000042&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510435021.000042',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:17:57:296] info: Store: NEW_NOTIFICATION
+{ id: 'ERo7tYFPWQ6Rr6K',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1510435079.000022&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1510435079.000022',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[11/11/17, 15:42:38:145] info: Store: SELECT_CHANNEL D7YNQJCHZ
+[11/11/17, 15:46:23:526] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1080 ], position: [ 0, 0 ], isMaximized: false }
+[11/11/17, 15:47:06:274] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[11/11/17, 15:49:47:899] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1080 ], position: [ 0, 0 ], isMaximized: false }
+[12/10/17, 13:12:07:225] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[12/10/17, 13:12:07:227] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/10/17, 13:12:07:214      ║
+[12/10/17, 13:12:07:228] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[12/10/17, 13:12:07:459] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[12/10/17, 13:12:07:677] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[12/10/17, 13:12:07:918] info: BrowserStore: Keychain access previously denied, don't ask again
+[12/10/17, 13:12:07:932] info: Store: persist/REHYDRATE
+[12/10/17, 13:12:07:960] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[12/10/17, 13:12:08:055] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[12/10/17, 13:12:08:072] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[12/10/17, 13:12:08:077] info: Loading windowMetrics
+{ size: [ 1920, 1080 ], position: [ 0, 0 ], isMaximized: false }
+[12/10/17, 13:12:08:099] info: App: Welcome to Slack 2.8.2 x64
+[12/10/17, 13:12:08:100] info: App load time: 1012ms
+[12/10/17, 13:12:08:102] info: Store: SET_FULL_SCREEN
+[12/10/17, 13:12:09:324] info: Store: SET_NETWORK_STATUS online
+[12/10/17, 13:12:09:336] info: Main window finished load. Launched on login: false
+[12/10/17, 13:12:09:347] info: Store: APP_STARTED
+[12/10/17, 13:12:10:346] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[12/10/17, 13:12:14:473] info: Store: page-loaded
+[12/10/17, 13:12:14:872] info: Store: SELECT_CHANNEL D7YNQJCHZ
+[12/10/17, 13:12:14:880] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[12/10/17, 13:12:15:553] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T771AR265' }
+[12/10/17, 13:12:15:748] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/10/17, 13:12:16:151] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/10/17, 13:12:16:173] info: Store: webapp-loaded
+[12/10/17, 13:12:16:368] info: Store: [7] Store an API token for a team
+[12/10/17, 13:12:20:729] info: Store: SELECT_CHANNEL C77RWFEE8
+[12/10/17, 13:12:38:122] info: Removed log file /home/rlong/.config/Slack/logs/renderer-3209.log
+[12/10/17, 13:12:38:126] info: Removed log file /home/rlong/.config/Slack/logs/renderer-4491.log
+[12/10/17, 13:12:38:129] info: Removed log file /home/rlong/.config/Slack/logs/renderer-5189.log
+[12/10/17, 13:12:38:132] info: Removed log file /home/rlong/.config/Slack/logs/webapp-login.log
+[12/10/17, 13:12:38:136] info: Removed log file /home/rlong/.config/Slack/logs/webview-2.log
+[12/10/17, 13:12:49:484] info: Store: NEW_NOTIFICATION
+{ id: 'k5N8Cnh9L6m2Y71',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512933168.000044&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512933168.000044',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 13:15:37:274] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[12/10/17, 13:15:42:253] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[12/10/17, 13:15:45:265] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ],
+  position: [ 972, 22 ],
+  isMaximized: false }
+[12/10/17, 13:19:06:243] info: Store: NEW_NOTIFICATION
+{ id: 'y8xoc7iR80oNYAz',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512933545.000029&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512933545.000029',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 13:46:39:953] info: Store: SELECT_CHANNEL C77LNDZ1B
+[12/10/17, 14:09:47:074] info: Store: NEW_NOTIFICATION
+{ id: 'KOv1S8sA0wRBORo',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512936585.000083&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512936585.000083',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 14:26:12:216] info: Store: NEW_NOTIFICATION
+{ id: 'mwgOcRt96Pg4G1v',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512937571.000008&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512937571.000008',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 14:57:52:762] info: Store: SELECT_CHANNEL C77RWFEE8
+[12/10/17, 15:01:09:467] info: Store: NEW_NOTIFICATION
+{ id: 'X62LIOukOzJZ4Az',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939668.000072&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939668.000072',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:01:44:398] info: Store: NEW_NOTIFICATION
+{ id: 'RgDOi0CO57kwPzM',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939703.000036&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939703.000036',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:01:59:625] info: Store: NEW_NOTIFICATION
+{ id: 'AngNsnFYWmzKXrg',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939718.000086&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939718.000086',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:02:46:920] info: Store: NEW_NOTIFICATION
+{ id: 'NxyLh9HRoEkAM7W',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939765.000107&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939765.000107',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:03:33:683] info: Store: NEW_NOTIFICATION
+{ id: 'Lgw7ilImp2EQxXm',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939812.000086&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939812.000086',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:03:52:197] info: Store: NEW_NOTIFICATION
+{ id: 'P1A7c9Sj5XNO7z1',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939831.000007&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939831.000007',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:04:24:563] info: Store: NEW_NOTIFICATION
+{ id: 'vgrlivTAxjRG2xl',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939863.000039&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939863.000039',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:04:46:896] info: Store: NEW_NOTIFICATION
+{ id: 'wjvVsXUKjmDWR4l',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939885.000072&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939885.000072',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:05:16:571] info: Store: NEW_NOTIFICATION
+{ id: 'nZjxspcZxOBDgw8',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939915.000036&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939915.000036',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:05:52:987] info: Store: NEW_NOTIFICATION
+{ id: 'pgl8ilfGM1m4yZ3',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939951.000082&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939951.000082',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:06:17:853] info: Store: NEW_NOTIFICATION
+{ id: 'Q1BnczhkN0pp5vV',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939976.000093&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939976.000093',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:06:28:314] info: Store: NEW_NOTIFICATION
+{ id: 'k5N8C1i9L6OO3W0',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512939987.000019&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512939987.000019',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:06:48:197] info: Store: NEW_NOTIFICATION
+{ id: '8q01cvsMrX88jBo',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940006.000169&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940006.000169',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:07:04:353] info: Store: NEW_NOTIFICATION
+{ id: 'KOv1SJtA0wPPRrQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940023.000008&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940023.000008',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:07:09:743] info: Store: NEW_NOTIFICATION
+{ id: 'Lgw7iAump2EE7qn',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940028.000068&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940028.000068',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:07:17:596] info: Store: NEW_NOTIFICATION
+{ id: 'KOv1SjCA0wPPjpQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940036.000070&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940036.000070',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:07:32:826] info: Store: NEW_NOTIFICATION
+{ id: '8q01cEFMrX8Nw56',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940051.000054&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940051.000054',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:08:10:841] info: Store: NEW_NOTIFICATION
+{ id: 'Lgw7i3Hmp2ElzLk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940089.000055&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940089.000055',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:08:14:625] info: Store: NEW_NOTIFICATION
+{ id: '2RQxuQI2kGjDy3W',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940093.000049&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940093.000049',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:09:45:547] info: Store: NEW_NOTIFICATION
+{ id: 'xGwnhESw1yOzk9n',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512940184.000047&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512940184.000047',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:35:06:313] info: Store: NEW_NOTIFICATION
+{ id: 'KOv1SyTA0w9yLvL',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512941705.000019&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512941705.000019',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:38:05:050] info: Store: NEW_NOTIFICATION
+{ id: '48PQcZUWwZm8rqg',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512941883.000099&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512941883.000099',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:38:23:632] info: Store: NEW_NOTIFICATION
+{ id: 'zmyvuQcKPykNk6X',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512941902.000042&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512941902.000042',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:40:39:114] info: Store: NEW_NOTIFICATION
+{ id: '8q01c1fMrXN6YmR',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512942037.000094&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512942037.000094',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:40:49:172] info: Store: NEW_NOTIFICATION
+{ id: 'pgl8i6hGM1N5w2L',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512942048.000026&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512942048.000026',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 15:40:53:546] info: Store: NEW_NOTIFICATION
+{ id: '664XIYi57MY1Vwl',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512942052.000086&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512942052.000086',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/10/17, 16:06:44:432] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/10/17, 16:06:45:034] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/10/17, 16:07:30:867] info: Store: NEW_NOTIFICATION
+{ id: '8q01cqsMrXN76Xn',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512943650.000034&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512943650.000034',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/10/17, 16:07:55:360] info: Store: NEW_NOTIFICATION
+{ id: 'xGwnh0tw1yjrpRk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512943674.000088&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512943674.000088',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/10/17, 16:13:02:173] info: Store: NEW_NOTIFICATION
+{ id: 'mwgOc7u96PonVmm',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1512943981.000046&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1512943981.000046',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78DGR4Q6-g13620bfbb58-512',
+  teamId: 'T771AR265' }
+[12/10/17, 16:15:54:845] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[12/10/17, 16:15:57:179] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[12/12/17, 00:34:36:961] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[12/12/17, 00:34:36:962] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/12/17, 00:34:36:952      ║
+[12/12/17, 00:34:36:963] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[12/12/17, 00:34:37:128] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[12/12/17, 00:34:37:292] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[12/12/17, 00:34:37:429] info: BrowserStore: Keychain access previously denied, don't ask again
+[12/12/17, 00:34:37:439] info: Store: persist/REHYDRATE
+[12/12/17, 00:34:37:457] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[12/12/17, 00:34:37:530] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[12/12/17, 00:34:37:544] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[12/12/17, 00:34:37:547] info: Loading windowMetrics
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[12/12/17, 00:34:37:565] info: App: Welcome to Slack 2.8.2 x64
+[12/12/17, 00:34:37:565] info: App load time: 697ms
+[12/12/17, 00:34:37:567] info: Store: SET_FULL_SCREEN
+[12/12/17, 00:34:38:548] info: Store: SET_NETWORK_STATUS online
+[12/12/17, 00:34:38:557] info: Main window finished load. Launched on login: false
+[12/12/17, 00:34:38:561] info: Store: APP_STARTED
+[12/12/17, 00:34:39:569] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }
+[12/12/17, 00:34:43:094] info: Store: SELECT_CHANNEL C77RWFEE8
+[12/12/17, 00:34:43:110] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[12/12/17, 00:34:43:973] info: Store: page-loaded
+[12/12/17, 00:34:44:241] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 00:34:44:530] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 00:34:44:548] info: Store: webapp-loaded
+[12/12/17, 00:34:44:713] info: Store: [7] Store an API token for a team
+[12/12/17, 00:34:44:717] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T771AR265' }
+[12/12/17, 00:36:45:398] info: Store: NEW_NOTIFICATION
+{ id: '91LrsmhO9W7oK5R',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513060606.000089&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513060606.000089',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:36:56:169] info: Store: NEW_NOTIFICATION
+{ id: 'E86RSliPWrANj2J',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513060616.000205&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513060616.000205',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:37:04:317] info: Store: NEW_NOTIFICATION
+{ id: 'q7MxuLsEAzPZwy3',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513060625.000027&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513060625.000027',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:37:15:785] info: Store: NEW_NOTIFICATION
+{ id: '81B2swtMrWknPOE',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513060636.000174&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513060636.000174',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:42:45:917] info: Store: NEW_NOTIFICATION
+{ id: 'q7MxuXuEAzPNPEQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513060966.000163&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513060966.000163',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:45:34:614] info: Store: NEW_NOTIFICATION
+{ id: 'jZORSGC7vZ3jVYj',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513061135.000151&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513061135.000151',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:45:43:843] info: Store: NEW_NOTIFICATION
+{ id: '71W3sQFND3M0JYY',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513061144.000176&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513061144.000176',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:45:50:085] info: Store: NEW_NOTIFICATION
+{ id: 'E86RSnHPWrABVy7',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513061151.000045&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513061151.000045',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 00:57:42:755] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[12/12/17, 00:58:27:115] info: Store: NEW_NOTIFICATION
+{ id: 'k8ORSoI9LnX4vy2',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513061908.000025&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513061908.000025',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:00:56:183] info: Store: NEW_NOTIFICATION
+{ id: 'k8ORSAS9LnXl3DB',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062056.000229&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062056.000229',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:01:00:569] info: Store: NEW_NOTIFICATION
+{ id: 'r8MkSxTyAVwD2Vq',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062061.000060&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062061.000060',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:01:30:863] info: Store: NEW_NOTIFICATION
+{ id: 'r8MkSXUyAVwDWGG',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062091.000137&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062091.000137',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:01:34:187] info: Store: NEW_NOTIFICATION
+{ id: 'zvxpiNcKPYDp3kQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062094.000282&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062094.000282',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:02:28:323] info: Store: NEW_NOTIFICATION
+{ id: '91LrsZfO9W7nJjk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062148.000252&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062148.000252',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:04:35:181] info: Store: NEW_NOTIFICATION
+{ id: 'xn7ktrhw1DlPG3R',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062275.000166&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062275.000166',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:04:50:302] info: Store: NEW_NOTIFICATION
+{ id: '6Xz8i8i57GgMLBK',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062290.000229&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062290.000229',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:04:59:162] info: Store: NEW_NOTIFICATION
+{ id: 'VA0OSwsJYlZ0MVM',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062299.000190&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062299.000190',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:05:07:025] info: Store: NEW_NOTIFICATION
+{ id: '5Q1yuvt2gJkDwrM',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062307.000125&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062307.000125',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:05:13:863] info: Store: NEW_NOTIFICATION
+{ id: 'jZORS2u7vZ3B4Gz',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062314.000138&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062314.000138',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:08:34:130] info: Store: NEW_NOTIFICATION
+{ id: 'OM5YS6Cr7mZ8y1Q',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062515.000013&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062515.000013',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:08:44:223] info: Store: NEW_NOTIFICATION
+{ id: 'Mw58s7FWrDjM6VR',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513062525.000030&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513062525.000030',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:19:53:477] info: Store: NEW_NOTIFICATION
+{ id: 'vl92ClHAxBLkxOB',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063194.000073&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063194.000073',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:20:18:004] info: Store: NEW_NOTIFICATION
+{ id: 'D1JksZIZYp4YWEy',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063218.000194&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063218.000194',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:20:24:795] info: Store: NEW_NOTIFICATION
+{ id: 'E86RS4SPWrAWP7J',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063225.000178&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063225.000178',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:20:33:897] info: Store: NEW_NOTIFICATION
+{ id: 'jZORS4T7vZ3vMVY',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063234.000144&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063234.000144',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:20:48:728] info: Store: NEW_NOTIFICATION
+{ id: 'NL5kCYURow5oP8V',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063249.000159&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063249.000159',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:00:459] info: Store: NEW_NOTIFICATION
+{ id: 'XLkDCVckO0wZ5Ek',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063381.000053&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063381.000053',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:05:283] info: Store: NEW_NOTIFICATION
+{ id: 'Jy76fZfLrEPZXZ1',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063385.000315&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063385.000315',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:14:098] info: Store: NEW_NOTIFICATION
+{ id: 'p8XYS6hGMWwlG92',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063394.000173&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063394.000173',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:17:677] info: Store: NEW_NOTIFICATION
+{ id: 'E86RS5iPWrAMQBr',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063398.000064&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063398.000064',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:25:488] info: Store: NEW_NOTIFICATION
+{ id: 'GvQ6i4sQx4RDWrV',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063406.000040&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063406.000040',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:36:120] info: Store: NEW_NOTIFICATION
+{ id: '0YXRUWtWmP7vNMx',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063416.000191&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063416.000191',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:46:273] info: Store: NEW_NOTIFICATION
+{ id: 'r8MkSzuyAVwkrJ0',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063427.000015&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063427.000015',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:23:49:895] info: Store: NEW_NOTIFICATION
+{ id: 'r8MkSYCyAVwkVWp',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063430.000162&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063430.000162',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:24:01:228] info: Store: NEW_NOTIFICATION
+{ id: 'Jy76fJFLrEP14M8',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063441.000271&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063441.000271',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:28:04:358] info: Store: NEW_NOTIFICATION
+{ id: 'NL5kCLHRow5kw8B',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063685.000020&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063685.000020',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:28:10:207] info: Store: NEW_NOTIFICATION
+{ id: 'D1JkskIZYp4r2vV',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063690.000312&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063690.000312',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 01:28:16:353] info: Store: NEW_NOTIFICATION
+{ id: 'gZQJS2S30VXWn4Q',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513063697.000032&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513063697.000032',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 02:38:58:042] info: Store: NEW_NOTIFICATION
+{ id: 'E86RSrTPWr9n2oR',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513067938.000386&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513067938.000386',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-USLACKBOT-sv1444671949-512',
+  teamId: 'T771AR265' }
+[12/12/17, 03:37:16:266] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 03:37:16:752] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 14:44:23:547] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 14:44:23:908] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 14:49:43:135] info: Store: SELECT_CHANNEL D778XTPAM
+[12/12/17, 15:20:31:617] info: Store: NEW_NOTIFICATION
+{ id: 'Qn5Wt0UkNj39p2p',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513113633.000258&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513113633.000258',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 15:20:35:425] info: Store: NEW_NOTIFICATION
+{ id: 'Mw58swcWrDpG6AD',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513113637.000221&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513113637.000221',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 16:47:17:659] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 16:47:18:143] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 17:00:40:776] info: Store: NEW_NOTIFICATION
+{ id: 'Jy76fjfLrEq1DWQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513119641.000477&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513119641.000477',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:01:20:084] info: Store: NEW_NOTIFICATION
+{ id: 'zvxpiMphKPY0j8z4',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513119681.000222&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513119681.000222',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:01:28:701] info: Store: NEW_NOTIFICATION
+{ id: 'r8MkS88iyAVJk8yJ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513119689.000420&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513119689.000420',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:34:58:063] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 17:34:58:504] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 17:37:49:625] info: Store: SELECT_CHANNEL C77RWFEE8
+[12/12/17, 17:45:20:340] info: Store: NEW_NOTIFICATION
+{ id: 'jZORSnjs7vZABN40',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513122321.000147&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513122321.000147',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:45:30:309] info: Store: NEW_NOTIFICATION
+{ id: 'L759uRktmpNw2w6X',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513122331.000179&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513122331.000179',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:51:17:589] info: Store: NEW_NOTIFICATION
+{ id: '1WBwHMnuXxwzRLzY',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513122678.000218&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513122678.000218',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:51:56:733] info: Store: NEW_NOTIFICATION
+{ id: 'Mw58sq6CWrDzjDG5',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513122717.000306&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513122717.000306',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 17:52:07:818] info: Store: NEW_NOTIFICATION
+{ id: '81B2s6YFMrWmkjvD',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513122728.000278&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513122728.000278',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:07:00:935] info: Store: SELECT_CHANNEL D778XTPAM
+[12/12/17, 18:08:58:801] info: Store: NEW_NOTIFICATION
+{ id: '91LrskNHO9W85WO7',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123740.000065&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123740.000065',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:08:58:926] info: Store: NEW_NOTIFICATION
+{ id: 'OM5YSp0Ir7mL0mAm',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123740.000163&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123740.000163',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:08:59:076] info: Store: NEW_NOTIFICATION
+{ id: 'RO56UvQSO52Gl2Wl',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123740.000214&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123740.000214',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:08:59:295] info: Store: NEW_NOTIFICATION
+{ id: 'jZORSnZT7vZAoZGo',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123740.000285&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123740.000285',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:09:38:292] info: Store: NEW_NOTIFICATION
+{ id: 'K15rs2PsA0mE9Emo',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513123779.000104&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513123779.000104',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:09:42:910] info: Store: NEW_NOTIFICATION
+{ id: 'oV62irkc6wnkQZQO',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513123784.000066&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513123784.000066',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:10:59:918] info: Store: NEW_NOTIFICATION
+{ id: 'jZORSnkf7vZAXKmM',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513123860.000333&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513123860.000333',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:11:05:745] info: Store: NEW_NOTIFICATION
+{ id: 'Jy76fqLhLrENRXMZ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513123866.000296&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513123866.000296',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:11:31:032] info: Store: NEW_NOTIFICATION
+{ id: 'xn7kt1GHw1DGZ01P',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123892.000112&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123892.000112',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:11:36:435] info: Store: NEW_NOTIFICATION
+{ id: 'p8XYSnXsGMWKgqXk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123897.000219&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123897.000219',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:11:39:927] info: Store: NEW_NOTIFICATION
+{ id: 'XLkDCX0tkO0AyoXn',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C77RWFEE8&message=1513123900.000376&team=T771AR265',
+  imageUri: null,
+  channel: 'C77RWFEE8',
+  msg: '1513123900.000376',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U77PRKAF4-8dad4a30b4d1-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:11:47:733] info: Store: SELECT_CHANNEL C77RWFEE8
+[12/12/17, 18:12:10:095] info: Store: SELECT_CHANNEL D778XTPAM
+[12/12/17, 18:13:18:357] info: Store: NEW_NOTIFICATION
+{ id: '1WBwHMzuXxwzrPyQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513123999.000169&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513123999.000169',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:13:20:933] info: Store: NEW_NOTIFICATION
+{ id: 'mOMZUj2C96WAzrW3',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124002.000060&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124002.000060',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:13:46:620] info: Store: NEW_NOTIFICATION
+{ id: 'k8ORSO7F9Ln5RBqK',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124027.000307&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124027.000307',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:13:49:645] info: Store: NEW_NOTIFICATION
+{ id: 'zvxpiM0HKPYE0AWj',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124031.000043&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124031.000043',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:15:01:575] info: Store: NEW_NOTIFICATION
+{ id: 'XLkDCXWIkO0AAZz2',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124102.000320&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124102.000320',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:15:04:748] info: Store: NEW_NOTIFICATION
+{ id: 'k8ORSOwS9Ln55MJv',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124106.000065&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124106.000065',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:15:23:527] info: Store: NEW_NOTIFICATION
+{ id: 'zvxpiMzTKPYE6Z3r',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124124.000277&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124124.000277',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:18:09:398] info: Store: NEW_NOTIFICATION
+{ id: 'E86RS34iPWrnmgrx',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124290.000167&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124290.000167',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:18:11:893] info: Store: NEW_NOTIFICATION
+{ id: 'L759uRDcmpN3Z3n7',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124292.000384&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124292.000384',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:19:15:015] info: Store: NEW_NOTIFICATION
+{ id: 'p8XYSngfGMWyPM51',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124356.000035&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124356.000035',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:19:15:697] info: Store: NEW_NOTIFICATION
+{ id: 'Mw58sqMhWrDBwryk',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513124356.000358&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513124356.000358',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 18:31:29:994] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 18:31:30:443] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 18:41:40:224] info: Store: NEW_NOTIFICATION
+{ id: '71W3sAlCND3Y7zkQ',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D778XTPAM&message=1513125702.000042&team=T771AR265',
+  imageUri: null,
+  channel: 'D778XTPAM',
+  msg: '1513125702.000042',
+  avatarImage: 'https://ca.slack-edge.com/T771AR265-U78SC8KQF-gb1cb32d3ccb-512',
+  teamId: 'T771AR265' }
+[12/12/17, 19:17:08:906] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 19:17:09:396] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/12/17, 19:31:49:186] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_34.png',
+     image_44: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_44.png',
+     image_68: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_68.png',
+     image_88: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_88.png',
+     image_102: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_102.png',
+     image_132: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_132.png',
+     image_230: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_230.png',
+     image_original: 'https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-09-22/245620968804_a59da8fe2eee28fd7567_original.png' },
+  teamId: 'T771AR265' }
+[12/12/17, 19:31:49:589] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T771AR265' }
+[12/23/17, 16:30:49:696] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[12/23/17, 16:30:49:698] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/23/17, 16:30:49:686      ║
+[12/23/17, 16:30:49:699] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[12/23/17, 16:30:49:898] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[12/23/17, 16:30:50:094] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/rlong/.config/Slack/logs/recorded-trace
+[12/23/17, 16:30:50:340] info: BrowserStore: Keychain access previously denied, don't ask again
+[12/23/17, 16:30:50:352] info: Store: persist/REHYDRATE
+[12/23/17, 16:30:50:374] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:293:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:93:62)' }
+[12/23/17, 16:30:50:460] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 11 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[12/23/17, 16:30:50:476] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[12/23/17, 16:30:50:481] info: Loading windowMetrics
+{ size: [ 926, 1009 ], position: [ 22, 22 ], isMaximized: false }
+[12/23/17, 16:30:50:503] info: App: Welcome to Slack 2.8.2 x64
+[12/23/17, 16:30:50:504] info: App load time: 918ms
+[12/23/17, 16:30:50:505] info: Store: SET_FULL_SCREEN
+[12/23/17, 16:30:51:965] info: Store: SET_NETWORK_STATUS offline
+[12/23/17, 16:30:51:977] info: Main window finished load. Launched on login: false
+[12/23/17, 16:30:51:985] info: Store: APP_STARTED
+[12/23/17, 16:30:52:103] info: Store: UPDATE_TEAM_USAGE
+{ T771AR265: 137 }
+[12/23/17, 16:30:52:986] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1053 ], position: [ 0, 0 ], isMaximized: false }

@@ -1,0 +1,180 @@
+[12/10/17, 13:12:08:504] info: ╔══════════════════════════════════════════════════════════════════════════════╗
+[12/10/17, 13:12:08:505] info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/10/17, 13:12:08:496      ║
+[12/10/17, 13:12:08:506] info: ╚══════════════════════════════════════════════════════════════════════════════╝
+[12/10/17, 13:12:08:728] info: Initializing local storage instance at path: /home/rlong/.config/Slack/local-settings.json
+[12/10/17, 13:12:09:313] info: WebViewLifeCycle: Creating subscribable lifecycle object
+{ objectId: 'T771AR265', assignedId: 1 }
+[12/10/17, 13:12:09:316] info: WebView LifeCycle: New webview component created for T771AR265:1', with state 'unloaded'
+[12/10/17, 13:12:09:320] info: TeamsDisplay: T771AR265 usage: 0
+[12/10/17, 13:12:09:323] info: Store: SET_NETWORK_STATUS online
+[12/10/17, 13:12:09:464] info: Checking network connection to Slack...
+[12/10/17, 13:12:09:469] info: Store: APP_STARTED
+{ updated: { events: { eventId: 1 } } }
+[12/10/17, 13:12:10:348] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }
+[12/10/17, 13:12:14:463] info: TeamView: Bugsnag user: U77PR92AW
+[12/10/17, 13:12:14:469] info: WebViewLifeCycle: State changed
+{ id: 'T771AR265',
+  componentId: 1,
+  newState: 'page-loaded',
+  data: null }
+[12/10/17, 13:12:14:471] info: Store: page-loaded
+[12/10/17, 13:12:14:874] info: Store: SELECT_CHANNEL
+{ updated: { appTeams: { selectedChannelId: 'D7YNQJCHZ' } } }
+[12/10/17, 13:12:16:168] info: Webapp finished loading
+[12/10/17, 13:12:16:170] info: WebViewLifeCycle: State changed
+{ id: 'T771AR265',
+  componentId: 1,
+  newState: 'webapp-loaded',
+  data: null }
+[12/10/17, 13:12:16:171] info: Store: webapp-loaded
+[12/10/17, 13:12:16:370] info: Store: [7] Store an API token for a team
+{ updated: { tokens: { T771AR265: [Object] } } }
+[12/10/17, 13:12:20:734] info: Store: SELECT_CHANNEL
+{ updated: { appTeams: { selectedChannelId: 'C77RWFEE8' } } }
+[12/10/17, 13:12:49:488] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 13:12:49:491] info: Creating new window notification.
+[12/10/17, 13:15:37:283] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }
+[12/10/17, 13:15:42:258] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }
+[12/10/17, 13:15:45:270] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }
+[12/10/17, 13:19:06:248] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 13:19:06:251] info: Creating new window notification.
+[12/10/17, 13:46:39:964] info: Store: SELECT_CHANNEL
+{ updated: { appTeams: { selectedChannelId: 'C77LNDZ1B' } } }
+[12/10/17, 14:09:47:078] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 14:09:47:080] info: Creating new window notification.
+[12/10/17, 14:26:12:221] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 14:26:12:223] info: Creating new window notification.
+[12/10/17, 14:57:52:773] info: Store: SELECT_CHANNEL
+{ updated: { appTeams: { selectedChannelId: 'C77RWFEE8' } } }
+[12/10/17, 15:01:09:471] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:01:09:475] info: Creating new window notification.
+[12/10/17, 15:01:44:402] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:01:44:404] info: Creating new window notification.
+[12/10/17, 15:01:59:629] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:01:59:634] info: Creating new window notification.
+[12/10/17, 15:02:46:925] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:02:46:927] info: Creating new window notification.
+[12/10/17, 15:03:33:689] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:03:33:691] info: Creating new window notification.
+[12/10/17, 15:03:52:200] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:03:52:202] info: Creating new window notification.
+[12/10/17, 15:04:24:567] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:04:24:570] info: Creating new window notification.
+[12/10/17, 15:04:46:899] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:04:46:902] info: Creating new window notification.
+[12/10/17, 15:05:16:574] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:05:16:576] info: Creating new window notification.
+[12/10/17, 15:05:52:990] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:05:52:992] info: Creating new window notification.
+[12/10/17, 15:06:17:858] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:06:17:860] info: Creating new window notification.
+[12/10/17, 15:06:28:317] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:06:28:320] info: Creating new window notification.
+[12/10/17, 15:06:48:200] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:06:48:202] info: Creating new window notification.
+[12/10/17, 15:07:04:358] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:07:04:360] info: Creating new window notification.
+[12/10/17, 15:07:09:746] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:07:09:749] info: Creating new window notification.
+[12/10/17, 15:07:17:600] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:07:17:602] info: Creating new window notification.
+[12/10/17, 15:07:32:829] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:07:32:831] info: Creating new window notification.
+[12/10/17, 15:08:10:846] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:08:10:849] info: Creating new window notification.
+[12/10/17, 15:08:14:629] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:08:14:631] info: Creating new window notification.
+[12/10/17, 15:09:45:552] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:09:45:555] info: Creating new window notification.
+[12/10/17, 15:35:06:318] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:35:06:320] info: Creating new window notification.
+[12/10/17, 15:38:05:054] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:38:05:056] info: Creating new window notification.
+[12/10/17, 15:38:23:636] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:38:23:638] info: Creating new window notification.
+[12/10/17, 15:40:39:119] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:40:39:121] info: Creating new window notification.
+[12/10/17, 15:40:49:176] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:40:49:178] info: Creating new window notification.
+[12/10/17, 15:40:53:549] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 15:40:53:551] info: Creating new window notification.
+[12/10/17, 16:07:30:870] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 16:07:30:872] info: Creating new window notification.
+[12/10/17, 16:07:55:364] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 16:07:55:366] info: Creating new window notification.
+[12/10/17, 16:13:02:178] info: Store: NEW_NOTIFICATION
+{ updated: { notifications: { notifications: [Object], newNotification: [Object] } },
+  deleted: {} }
+[12/10/17, 16:13:02:182] info: Creating new window notification.
+[12/10/17, 16:15:54:852] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }
+[12/10/17, 16:15:57:183] info: Store: SAVE_WINDOW_SETTINGS
+{ updated: { windowFrame: { windowSettings: [Object] } } }

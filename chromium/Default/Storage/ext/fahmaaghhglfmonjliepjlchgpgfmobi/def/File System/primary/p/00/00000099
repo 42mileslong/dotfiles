@@ -1,0 +1,26 @@
+
+
+-------session starts-------
+
+[3-23 20:48:53.566] INFO: MediaGallery: name=/home/rlong/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[3-23 20:48:53.567] INFO: MediaGallery: name=/home/rlong/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[3-23 20:48:53.568] INFO: MediaGallery: name=/home/rlong/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[3-23 20:48:53.569] INFO: Starts a quick scan on /home/rlong/Music
+[3-23 20:48:53.570] INFO: Iterating over dir / from source /home/rlong/Music
+[3-23 20:48:53.572] INFO: Starts a quick scan on /home/rlong/Pictures
+[3-23 20:48:53.573] INFO: Iterating over dir / from source /home/rlong/Pictures
+[3-23 20:48:53.573] INFO: Starts a quick scan on /home/rlong/Videos
+[3-23 20:48:53.574] INFO: Iterating over dir / from source /home/rlong/Videos
+[3-23 20:48:53.576] INFO: App upgraded, previous version: 1.382.0
+[3-23 20:48:53.578] INFO: Error fetching features, backoff count: 1
+[3-23 20:48:53.579] INFO: /home/rlong/Videos does not contain music file
+[3-23 20:48:53.584] INFO: /home/rlong/Music contains music file
+[3-23 20:48:53.584] INFO: Iterating over dir /walls from source /home/rlong/Pictures
+[3-23 20:48:53.584] INFO: Got the drag_and_drop directory
+[3-23 20:48:53.587] INFO: /home/rlong/Pictures does not contain music file
+[3-23 20:48:53.603] INFO: lsUserAddedMusicSourceIds=null
+[3-23 20:48:53.603] INFO: lsLastTrackFailureLoggingTime=null
+[3-23 20:48:53.603] INFO: lsUserSelectedDownloadDirId=null
+[3-23 20:48:53.605] INFO: lsDefaultDownloadLocationId=null
+[3-23 20:48:53.605] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[3-23 20:48:53.605] INFO: Setting is already: lsDefaultDownloadLocationId = null

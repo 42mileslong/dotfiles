@@ -1,0 +1,12 @@
+2017/11/05-17:02:41.099 959 Reusing MANIFEST /home/rlong/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/11/05-17:02:41.109 959 Recovering log #4
+2017/11/05-17:02:41.120 959 Reusing old log /home/rlong/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2017/11/05-17:13:26.654 2157 Level-0 table #8: started
+2017/11/05-17:13:26.699 2157 Level-0 table #8: 3883050 bytes OK
+2017/11/05-17:13:26.704 2157 Delete type=0 #4
+2017/11/05-18:02:03.387 2157 Compacting 1@1 + 1@2 files
+2017/11/05-18:02:03.415 2157 Generated table #9@1: 780 keys, 144896 bytes
+2017/11/05-18:02:03.415 2157 Compacted 1@1 + 1@2 files => 144896 bytes
+2017/11/05-18:02:03.418 2157 compacted to: files[ 0 0 1 0 0 0 0 ]
+2017/11/05-18:02:03.418 2157 Delete type=2 #5
+2017/11/05-18:02:03.419 2157 Delete type=2 #8

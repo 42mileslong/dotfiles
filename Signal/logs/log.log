@@ -1,0 +1,260 @@
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"app ready","time":"2017-11-05T17:02:40.099Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Initializing BrowserWindow config: {\"width\":1920,\"height\":1080,\"minWidth\":700,\"minHeight\":360,\"autoHideMenuBar\":false,\"webPreferences\":{\"nodeIntegration\":false,\"preload\":\"/usr/lib/signal/resources/app.asar/preload.js\"},\"maximized\":false,\"x\":0,\"y\":0}","time":"2017-11-05T17:02:40.132Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Detected Linux. Using default en_US spell check dictionary","time":"2017-11-05T17:02:40.697Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"pre-main prep time: 3 ms","time":"2017-11-05T17:02:41.041Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"background page reloaded","time":"2017-11-05T17:02:41.094Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"environment: production","time":"2017-11-05T17:02:41.094Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"ConversationController: starting initial fetch","time":"2017-11-05T17:02:41.251Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"ConversationController: done with initial fetch","time":"2017-11-05T17:02:41.278Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"listening for registration events","time":"2017-11-05T17:02:41.280Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Next signed key rotation scheduled for \"2017-11-06T00:25:37.733Z\"","time":"2017-11-05T17:02:41.283Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"connect","time":"2017-11-05T17:02:41.284Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"getAllFromCache","time":"2017-11-05T17:02:41.285Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"opening message socket https://textsecure-service.whispersystems.org","time":"2017-11-05T17:02:41.286Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"open inbox","time":"2017-11-05T17:02:41.299Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"getAllFromCache loaded 1 saved envelopes","time":"2017-11-05T17:02:41.592Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing decrypted envelope +[REDACTED]731.1 1509779901302","time":"2017-11-05T17:02:41.614Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"websocket open","time":"2017-11-05T17:02:41.886Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"got request PUT /api/v1/queue/empty","time":"2017-11-05T17:02:41.906Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509902585842","time":"2017-11-05T17:02:41.941Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"prekey message from +[REDACTED]038.1 1509902585842","time":"2017-11-05T17:02:41.943Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509902971763","time":"2017-11-05T17:02:41.954Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509903079056","time":"2017-11-05T17:02:41.961Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]731.1 1509903079056","time":"2017-11-05T17:02:41.967Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]731.1 1509903079344","time":"2017-11-05T17:02:42.379Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509903126964","time":"2017-11-05T17:02:42.387Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509903908969","time":"2017-11-05T17:02:42.394Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"New remote ephemeral key","time":"2017-11-05T17:02:42.399Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v2/keys","time":"2017-11-05T17:02:42.519Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]038.1 1509902585842","time":"2017-11-05T17:02:42.534Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T17:02:42.567Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 1 focused:  enabled: false","time":"2017-11-05T17:02:42.568Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"prekey message from +[REDACTED]038.1 1509902971763","time":"2017-11-05T17:02:42.569Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Duplicate PreKeyMessage for session","time":"2017-11-05T17:02:42.575Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]038.1 1509902971763","time":"2017-11-05T17:02:42.588Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T17:02:42.603Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 2 focused:  enabled: false","time":"2017-11-05T17:02:42.603Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]038.1 1509903079056","time":"2017-11-05T17:02:42.604Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"No message for delivery receipt +[REDACTED]038 1509903079056","time":"2017-11-05T17:02:42.608Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]731.1 1509903079056","time":"2017-11-05T17:02:42.608Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"New remote ephemeral key","time":"2017-11-05T17:02:42.612Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"sent message to +[REDACTED]038 1509903079056 from +[REDACTED]731.1 1509903079056","time":"2017-11-05T17:02:42.714Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]731.1 1509903079344","time":"2017-11-05T17:02:42.733Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read messages from +[REDACTED]731.1","time":"2017-11-05T17:02:42.750Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read sync +[REDACTED]038 1509902585842","time":"2017-11-05T17:02:42.751Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read sync +[REDACTED]038 1509902971763","time":"2017-11-05T17:02:42.752Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove notification","time":"2017-11-05T17:02:42.754Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove notification","time":"2017-11-05T17:02:42.756Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"prekey message from +[REDACTED]038.1 1509903126964","time":"2017-11-05T17:02:42.776Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Duplicate PreKeyMessage for session","time":"2017-11-05T17:02:42.796Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v2/keys 200 Success","time":"2017-11-05T17:02:42.832Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"prekey count 98","time":"2017-11-05T17:02:42.833Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]038.1 1509903126964","time":"2017-11-05T17:02:42.840Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T17:02:42.867Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 1 focused: false enabled: false","time":"2017-11-05T17:02:42.868Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"prekey message from +[REDACTED]038.1 1509903908969","time":"2017-11-05T17:02:42.873Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Duplicate PreKeyMessage for session","time":"2017-11-05T17:02:42.881Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]038.1 1509903908969","time":"2017-11-05T17:02:42.898Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T17:02:42.936Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 2 focused: false enabled: false","time":"2017-11-05T17:02:42.937Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"MessageReceiver: emitting 'empty' event","time":"2017-11-05T17:02:42.938Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 2 focused: false enabled: true","time":"2017-11-05T17:02:42.946Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"draw attention","time":"2017-11-05T17:02:42.946Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove all notifications","time":"2017-11-05T17:02:42.951Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:03:36.920Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:04:31.969Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:05:27.056Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:06:22.150Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:07:17.278Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:08:12.333Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:09:07.386Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:10:02.437Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:10:57.501Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:11:52.694Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:12:47.911Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":1920,\"height\":1053,\"x\":0,\"y\":0}","time":"2017-11-05T17:13:07.008Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"fetchMessages","time":"2017-11-05T17:13:08.740Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]189","time":"2017-11-05T17:13:08.762Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Conversation +[REDACTED]189 took 294 milliseconds to load","time":"2017-11-05T17:13:09.042Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]189 200 Success","time":"2017-11-05T17:13:09.287Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"done with status fetch","time":"2017-11-05T17:13:09.366Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Send pre-checks took 41 milliseconds","time":"2017-11-05T17:13:11.491Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending message to conversation +[REDACTED]189 with timestamp 1509901991513","time":"2017-11-05T17:13:11.514Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189","time":"2017-11-05T17:13:11.619Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189 200 Success","time":"2017-11-05T17:13:12.065Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731","time":"2017-11-05T17:13:12.112Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731 200 Success","time":"2017-11-05T17:13:12.315Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Send pre-checks took 28 milliseconds","time":"2017-11-05T17:13:16.204Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending message to conversation +[REDACTED]189 with timestamp 1509901996221","time":"2017-11-05T17:13:16.222Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189","time":"2017-11-05T17:13:16.312Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189 200 Success","time":"2017-11-05T17:13:16.726Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731","time":"2017-11-05T17:13:16.769Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731 200 Success","time":"2017-11-05T17:13:17.101Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509901991513","time":"2017-11-05T17:13:19.949Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]189.1 1509901991513","time":"2017-11-05T17:13:19.949Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509901996221","time":"2017-11-05T17:13:20.451Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]189.1 1509901996221","time":"2017-11-05T17:13:20.451Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Send pre-checks took 15 milliseconds","time":"2017-11-05T17:13:20.852Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending message to conversation +[REDACTED]189 with timestamp 1509902000868","time":"2017-11-05T17:13:20.869Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189","time":"2017-11-05T17:13:20.960Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189 200 Success","time":"2017-11-05T17:13:21.201Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731","time":"2017-11-05T17:13:21.236Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509902000868","time":"2017-11-05T17:13:21.454Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]189.1 1509902000868","time":"2017-11-05T17:13:21.454Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731 200 Success","time":"2017-11-05T17:13:21.712Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Send pre-checks took 25 milliseconds","time":"2017-11-05T17:13:23.928Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending message to conversation +[REDACTED]189 with timestamp 1509902003954","time":"2017-11-05T17:13:23.955Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189","time":"2017-11-05T17:13:24.102Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]189 200 Success","time":"2017-11-05T17:13:24.499Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731","time":"2017-11-05T17:13:24.537Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509902003954","time":"2017-11-05T17:13:24.558Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]189.1 1509902003954","time":"2017-11-05T17:13:24.559Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731 200 Success","time":"2017-11-05T17:13:24.728Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"fetchMessages","time":"2017-11-05T17:13:25.492Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]038","time":"2017-11-05T17:13:25.496Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Conversation +[REDACTED]038 took 99 milliseconds to load","time":"2017-11-05T17:13:25.595Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]038 200 Success","time":"2017-11-05T17:13:25.810Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"done with status fetch","time":"2017-11-05T17:13:25.823Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Send pre-checks took 25 milliseconds","time":"2017-11-05T17:13:34.044Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending message to conversation +[REDACTED]038 with timestamp 1509902014062","time":"2017-11-05T17:13:34.065Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]038","time":"2017-11-05T17:13:34.147Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]038 200 Success","time":"2017-11-05T17:13:34.347Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731","time":"2017-11-05T17:13:34.381Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"PUT https://textsecure-service.whispersystems.org/v1/messages/+[REDACTED]731 200 Success","time":"2017-11-05T17:13:34.641Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]038.1 1509902014062","time":"2017-11-05T17:13:36.936Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"delivery receipt from +[REDACTED]038.1 1509902014062","time":"2017-11-05T17:13:36.937Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:14:31.929Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"done with status fetch","time":"2017-11-05T17:15:16.350Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:15:27.148Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:16:22.231Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:17:17.332Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]189","time":"2017-11-05T17:18:08.750Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/profile/+[REDACTED]189 200 Success","time":"2017-11-05T17:18:09.055Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:18:12.498Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:19:07.586Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:20:02.678Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:20:57.873Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:21:52.963Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:22:48.052Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:23:43.247Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:24:38.438Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:25:33.552Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:26:28.621Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:27:23.781Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":926,\"height\":1009,\"x\":22,\"y\":22}","time":"2017-11-05T17:28:08.424Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:28:18.925Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:29:13.963Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:30:09.089Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:31:04.180Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"WebSocketResource.close()","time":"2017-11-05T17:31:05.179Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Dispatching our own socket close event","time":"2017-11-05T17:31:06.183Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"websocket closed 3001 No response to keepalive request calledClose: ","time":"2017-11-05T17:31:06.183Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices","time":"2017-11-05T17:31:06.185Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"MessageReceiver: emitting 'empty' event","time":"2017-11-05T17:31:06.187Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices 0 Error","time":"2017-11-05T17:31:06.189Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"{\"name\":\"FetchError\",\"message\":\"request to https://textsecure-service.whispersystems.org/v1/devices failed, reason: getaddrinfo ENOTFOUND textsecure-service.whispersystems.org textsecure-service.whispersystems.org:443\",\"type\":\"system\",\"errno\":\"ENOTFOUND\",\"code\":\"ENOTFOUND\"}","time":"2017-11-05T17:31:06.190Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices","time":"2017-11-05T17:31:07.191Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices 0 Error","time":"2017-11-05T17:31:07.195Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"{\"name\":\"FetchError\",\"message\":\"request to https://textsecure-service.whispersystems.org/v1/devices failed, reason: getaddrinfo ENOTFOUND textsecure-service.whispersystems.org textsecure-service.whispersystems.org:443\",\"type\":\"system\",\"errno\":\"ENOTFOUND\",\"code\":\"ENOTFOUND\"}","time":"2017-11-05T17:31:07.195Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices","time":"2017-11-05T17:31:08.195Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"GET https://textsecure-service.whispersystems.org/v1/devices 0 Error","time":"2017-11-05T17:31:08.199Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"{\"name\":\"FetchError\",\"message\":\"request to https://textsecure-service.whispersystems.org/v1/devices failed, reason: getaddrinfo ENOTFOUND textsecure-service.whispersystems.org textsecure-service.whispersystems.org:443\",\"type\":\"system\",\"errno\":\"ENOTFOUND\",\"code\":\"ENOTFOUND\"}","time":"2017-11-05T17:31:08.200Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"{\"name\":\"HTTPError\",\"code\":-1,\"response\":\"FetchError: request to https://textsecure-service.whispersystems.org/v1/devices failed, reason: getaddrinfo ENOTFOUND textsecure-service.whispersystems.org textsecure-service.whispersystems.org:443\",\"message\":\"Failed to connect to the server, please check your network connection.\"}","time":"2017-11-05T17:31:08.201Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Error\n    at ajax (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:37557:25)\n    at TextSecureServer.ajax (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:37601:20)\n    at TextSecureServer.getDevices (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:37711:25)\n    at MessageReceiver.onclose (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:38523:28)\n    at window.WebSocketResource.dispatchEvent (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:37383:47)\n    at window.WebSocketResource.<anonymous> (file:///usr/lib/signal/resources/app.asar/js/libtextsecure.js:38352:22)","time":"2017-11-05T17:31:08.201Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"retrying in 1 minute","time":"2017-11-05T17:31:08.201Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"connect","time":"2017-11-05T17:32:08.204Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"MessageReceiver.close()","time":"2017-11-05T17:32:08.208Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"opening message socket https://textsecure-service.whispersystems.org","time":"2017-11-05T17:32:08.208Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"drained","time":"2017-11-05T17:32:08.209Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"websocket open","time":"2017-11-05T17:32:08.688Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"got request PUT /api/v1/queue/empty","time":"2017-11-05T17:32:08.710Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"MessageReceiver: emitting 'empty' event","time":"2017-11-05T17:32:08.711Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 0 focused: false enabled: true","time":"2017-11-05T17:32:08.712Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":1920,\"height\":1053,\"x\":0,\"y\":0}","time":"2017-11-05T17:32:49.788Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":926,\"height\":1009,\"x\":22,\"y\":22}","time":"2017-11-05T17:32:51.902Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":606,\"height\":1009,\"x\":22,\"y\":22}","time":"2017-11-05T17:32:59.177Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":926,\"height\":1009,\"x\":22,\"y\":22}","time":"2017-11-05T17:33:00.676Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:33:03.712Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:33:58.771Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:34:53.840Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:35:48.921Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:36:44.044Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:37:39.079Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:38:34.156Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:39:29.216Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:40:24.257Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:41:19.399Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:42:14.532Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:43:09.644Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:44:04.776Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:44:59.864Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:45:54.990Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:46:50.060Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:47:45.302Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:48:40.418Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:49:35.529Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:50:30.618Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:51:25.811Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:52:20.902Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:53:16.094Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:54:11.310Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:55:06.503Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:56:01.592Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:56:56.767Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:57:51.959Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:58:47.011Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T17:59:42.141Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:00:37.171Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:01:32.327Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509922910076","time":"2017-11-05T18:02:00.564Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]189.1 1509922910076","time":"2017-11-05T18:02:00.568Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"New remote ephemeral key","time":"2017-11-05T18:02:00.569Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read receipt +[REDACTED]189 1509901996221","time":"2017-11-05T18:02:00.704Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read receipt +[REDACTED]189 1509901991513","time":"2017-11-05T18:02:00.704Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read receipt +[REDACTED]189 1509902000868","time":"2017-11-05T18:02:00.704Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"read receipt +[REDACTED]189 1509902003954","time":"2017-11-05T18:02:00.705Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509922916164","time":"2017-11-05T18:02:00.906Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]189.1 1509922916164","time":"2017-11-05T18:02:00.906Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]189.1 1509922916164","time":"2017-11-05T18:02:00.930Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T18:02:00.993Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 1 focused: false enabled: true","time":"2017-11-05T18:02:00.994Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"draw attention","time":"2017-11-05T18:02:00.994Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove all notifications","time":"2017-11-05T18:02:00.995Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509922919824","time":"2017-11-05T18:02:02.321Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]189.1 1509922919824","time":"2017-11-05T18:02:02.322Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]189.1 1509922919824","time":"2017-11-05T18:02:02.341Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T18:02:02.393Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 1 focused: false enabled: true","time":"2017-11-05T18:02:02.394Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"draw attention","time":"2017-11-05T18:02:02.394Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove all notifications","time":"2017-11-05T18:02:02.395Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"queueing envelope +[REDACTED]189.1 1509922929641","time":"2017-11-05T18:02:08.064Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"message from +[REDACTED]189.1 1509922929641","time":"2017-11-05T18:02:08.065Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"data message from +[REDACTED]189.1 1509922929641","time":"2017-11-05T18:02:08.090Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"adding notification","time":"2017-11-05T18:02:08.137Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"updating notifications - count: 1 focused: false enabled: true","time":"2017-11-05T18:02:08.138Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"draw attention","time":"2017-11-05T18:02:08.139Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"remove all notifications","time":"2017-11-05T18:02:08.139Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:03:03.058Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:03:58.264Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:04:53.436Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:05:48.630Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:06:43.679Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:07:38.842Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:08:34.010Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:09:29.200Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:10:24.294Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:11:19.484Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:12:14.583Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:13:09.631Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:14:04.757Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:14:59.813Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:15:54.942Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:16:50.032Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:17:45.122Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:18:40.220Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:19:35.305Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:20:30.359Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:21:25.587Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:22:20.682Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Sending a keepalive message","time":"2017-11-05T18:23:15.793Z","v":0}
+{"name":"log","hostname":"xps","pid":939,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"width\":926,\"height\":1009,\"x\":22,\"y\":22}","time":"2017-11-05T18:23:42.849Z","v":0}

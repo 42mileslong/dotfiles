@@ -1,0 +1,1033 @@
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/05/17, 17:28:32:936      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝
+error: Calls failed to load, bailing
+info: Nov-5 17:28:35.190 [BOOT] booted! pri:0 version:1509818712 start_ms:1509902915012 (7ms ago)
+info: Nov-5 17:28:35.210 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-5 17:28:37.175 [SOCKET-MANAGER] (T771AR265) Changing from never_connected to prov_connect
+info: Nov-5 17:28:37.175 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Nov-5 17:28:37.176 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Nov-5 17:28:37.176 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Nov-5 17:28:37.666 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Nov-5 17:28:37.667 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+warn: 2017/11/5 17:28:37.675  Received a reply to a message we have no record of sending (reply_to = 1289, type = message)
+info: Nov-5 17:28:37.850 [BOOT] Finalizing incremental boot
+info: Nov-5 17:28:38.919 [BOOT] Completed incremental boot
+info: Nov-5 17:28:39.486 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-5 17:28:39.487 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Nov-5 17:28:39.487 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Nov-5 17:28:39.490 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Nov-5 17:28:39.490 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-5 17:28:39.494 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Nov-5 17:28:39.495 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Nov-5 17:28:39.498 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-5 17:28:39.500 [BOOT] Finished first boot 2343 ms after DOM ready
+info: 2017/11/5 17:28:39.733  Finished processing users.counts
+info: 2017/11/5 17:28:39.734  0 IMs with unreads, 0 total dm_count
+info: Nov-5 17:28:41.519 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/05/17, 17:32:58:484      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝
+info: Nov-5 17:33:01.410 [BOOT] booted! pri:0 version:1509818712 start_ms:1509903181033 (8ms ago)
+info: Nov-5 17:33:01.430 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-5 17:33:02.921 [SOCKET-MANAGER] (T771AR265) Changing from never_connected to prov_connect
+info: Nov-5 17:33:02.922 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Nov-5 17:33:02.923 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Nov-5 17:33:02.923 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Nov-5 17:33:03.359 [BOOT] Finalizing incremental boot
+info: Nov-5 17:33:04.306 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+warn: 2017/11/5 17:33:04.510  A call to promo.banner failed
+info: Nov-5 17:33:04.512 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Nov-5 17:33:04.512 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Nov-5 17:33:04.513 [FLANNEL] connected! Continuing deferred user_counts_request call
+warn: 2017/11/5 17:33:04.517  Received a reply to a message we have no record of sending (reply_to = 1289, type = message)
+info: Nov-5 17:33:04.752 [BOOT] Completed incremental boot
+info: Nov-5 17:33:05.303 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-5 17:33:05.303 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Nov-5 17:33:05.303 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Nov-5 17:33:05.309 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Nov-5 17:33:05.309 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-5 17:33:05.312 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Nov-5 17:33:05.312 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Nov-5 17:33:05.315 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-5 17:33:05.316 [BOOT] Finished first boot 2405 ms after DOM ready
+info: 2017/11/5 17:33:05.464  Finished processing users.counts
+info: 2017/11/5 17:33:05.464  0 IMs with unreads, 0 total dm_count
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 11/11/17, 12:58:11:833      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝
+info: Nov-11 12:58:13.979 [BOOT] booted! pri:0 version:1510382016 start_ms:1510405093973 (6ms ago)
+info: Nov-11 12:58:13.980 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-11 12:58:16.190 [SOCKET-MANAGER] (T771AR265) Changing from never_connected to prov_connect
+info: Nov-11 12:58:16.190 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Nov-11 12:58:16.200 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Nov-11 12:58:16.200 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Nov-11 12:58:16.419 [BOOT] Finalizing incremental boot
+info: Nov-11 12:58:17.155 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+warn: 2017/11/11 12:58:17.377  A call to promo.banner failed
+info: Nov-11 12:58:17.379 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Nov-11 12:58:17.379 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Nov-11 12:58:17.380 [FLANNEL] connected! Continuing deferred user_counts_request call
+warn: 2017/11/11 12:58:17.384  Received a reply to a message we have no record of sending (reply_to = 411, type = message)
+info: Nov-11 12:58:17.619 [BOOT] Completed incremental boot
+info: Nov-11 12:58:18.146 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-11 12:58:18.146 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Nov-11 12:58:18.146 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Nov-11 12:58:18.150 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Nov-11 12:58:18.150 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-11 12:58:18.152 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Nov-11 12:58:18.152 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Nov-11 12:58:18.160 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-11 12:58:18.160 [BOOT] Finished first boot 2153 ms after DOM ready
+info: 2017/11/11 12:58:18.383  Finished processing users.counts
+info: 2017/11/11 12:58:18.383  0 IMs with unreads, 0 total dm_count
+warn: 2017/11/11 12:59:14.393  TS.search.autocomplete: input event "input" not found
+info: Nov-11 13:02:00.146 [ACTION:CHANNEL-SIDEBAR] Selected C77LNDZ1B
+info: Nov-11 13:24:41.704 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+warn: %cUnhandled rejection Error: Cannot send message; this socket has been closed
+    at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:152013)
+    at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:32841)
+    at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:6:167952
+    at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:35:834108
+    at Object.dispatch (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:35:831320)
+    at Object.t [as dispatch] (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.be95e21b23b890418281.min.js:1:81959)
+    at Object.send (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:35:1012436)
+    at Object.e [as tickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.de55a0d7a4ab2adddb85.min.js:1:266514)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.de55a0d7a4ab2adddb85.min.js:1:266331)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:85972)
+    at Object.maybeTickleMS (https://cs196projects.slack.com/messages:811:11)
+    at <anonymous>:1:7
+    at EventEmitter.electron.ipcRenderer.on (/usr/lib/slack/resources/electron.asar/renderer/init.js:52:28)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+info: Nov-11 13:37:47.386 [SOCKET-MANAGER] (T771AR265) Changing from connected to error
+info: Nov-11 13:37:47.391 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Nov-11 13:37:47.397 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/11/11 13:37:47.399  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:17812)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:38459)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40162)
+at s (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:6:164738)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40535)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:34604)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.6715daf6cfad2699e014.min.js:201:112752)
+at O (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:149903)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:151582)
+info: 2017/11/11 13:37:47.409  Hiding the reconnection banner because we are disconnected
+info: Nov-11 13:37:47.577 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Nov-11 13:37:47.577 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: 2017/11/11 13:38:07.590  Internet connection still offline after 1 attempts (unable to reach API)
+warn: 2017/11/11 13:38:27.595  Internet connection still offline after 2 attempts (unable to reach API)
+warn: 2017/11/11 13:38:47.600  Internet connection still offline after 3 attempts (unable to reach API)
+warn: 2017/11/11 13:39:07.604  Internet connection still offline after 4 attempts (unable to reach API)
+warn: 2017/11/11 13:39:27.629  Internet connection still offline after 5 attempts (unable to reach API)
+warn: 2017/11/11 13:39:47.633  Internet connection still offline after 6 attempts (unable to reach API)
+warn: 2017/11/11 13:40:07.637  Internet connection still offline after 7 attempts (unable to reach API)
+warn: 2017/11/11 13:40:27.642  Internet connection still offline after 8 attempts (unable to reach API)
+warn: 2017/11/11 13:40:47.647  Internet connection still offline after 9 attempts (unable to reach API)
+warn: 2017/11/11 13:41:07.652  Internet connection still offline after 10 attempts (unable to reach API)
+warn: 2017/11/11 13:41:27.656  Internet connection still offline after 11 attempts (unable to reach API)
+warn: 2017/11/11 13:41:47.660  Internet connection still offline after 12 attempts (unable to reach API)
+warn: 2017/11/11 13:42:07.664  Internet connection still offline after 13 attempts (unable to reach API)
+warn: 2017/11/11 13:42:27.668  Internet connection still offline after 14 attempts (unable to reach API)
+info: Nov-11 13:42:47.578 [SOCKET-MANAGER] (T771AR265) Spent 300000 ms in wait_for_connectivity state; giving up
+info: Nov-11 13:42:47.578 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to error
+info: Nov-11 13:42:47.579 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Nov-11 13:42:47.582 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/11/11 13:42:47.583  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:17812)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:38459)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40162)
+at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:42453
+info: Nov-11 13:42:47.584 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Nov-11 13:42:47.585 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: 2017/11/11 13:42:47.673  Internet connection still offline after 15 attempts (unable to reach API)
+warn: 2017/11/11 13:43:07.677  Internet connection still offline after 16 attempts (unable to reach API)
+warn: 2017/11/11 13:43:27.681  Internet connection still offline after 17 attempts (unable to reach API)
+warn: 2017/11/11 13:43:47.686  Internet connection still offline after 18 attempts (unable to reach API)
+warn: 2017/11/11 13:44:07.691  Internet connection still offline after 19 attempts (unable to reach API)
+warn: 2017/11/11 13:44:27.696  Internet connection still offline after 20 attempts (unable to reach API)
+warn: 2017/11/11 13:44:47.701  Internet connection still offline after 21 attempts (unable to reach API)
+warn: 2017/11/11 13:45:07.705  Internet connection still offline after 22 attempts (unable to reach API)
+warn: 2017/11/11 13:45:27.710  Internet connection still offline after 23 attempts (unable to reach API)
+warn: 2017/11/11 13:45:47.719  Internet connection still offline after 24 attempts (unable to reach API)
+warn: 2017/11/11 13:46:07.723  Internet connection still offline after 25 attempts (unable to reach API)
+warn: 2017/11/11 13:46:27.728  Internet connection still offline after 26 attempts (unable to reach API)
+warn: 2017/11/11 13:46:47.732  Internet connection still offline after 27 attempts (unable to reach API)
+warn: 2017/11/11 13:47:07.738  Internet connection still offline after 28 attempts (unable to reach API)
+warn: 2017/11/11 13:47:27.742  Internet connection still offline after 29 attempts (unable to reach API)
+info: Nov-11 13:47:47.585 [SOCKET-MANAGER] (T771AR265) Spent 300000 ms in wait_for_connectivity state; giving up
+info: Nov-11 13:47:47.585 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to error
+info: Nov-11 13:47:47.586 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Nov-11 13:47:47.590 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/11/11 13:47:47.590  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:17812)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:38459)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40162)
+at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:42453
+info: Nov-11 13:47:47.595 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Nov-11 13:47:47.595 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: 2017/11/11 13:47:47.748  Internet connection still offline after 30 attempts (unable to reach API)
+warn: 2017/11/11 13:48:07.753  Internet connection still offline after 31 attempts (unable to reach API)
+warn: 2017/11/11 13:48:27.757  Internet connection still offline after 32 attempts (unable to reach API)
+warn: 2017/11/11 13:48:47.762  Internet connection still offline after 33 attempts (unable to reach API)
+warn: 2017/11/11 13:49:07.767  Internet connection still offline after 34 attempts (unable to reach API)
+warn: 2017/11/11 13:49:27.772  Internet connection still offline after 35 attempts (unable to reach API)
+warn: 2017/11/11 13:49:47.778  Internet connection still offline after 36 attempts (unable to reach API)
+warn: 2017/11/11 13:50:07.782  Internet connection still offline after 37 attempts (unable to reach API)
+warn: 2017/11/11 13:50:27.786  Internet connection still offline after 38 attempts (unable to reach API)
+warn: 2017/11/11 13:50:47.791  Internet connection still offline after 39 attempts (unable to reach API)
+warn: 2017/11/11 13:51:07.795  Internet connection still offline after 40 attempts (unable to reach API)
+warn: 2017/11/11 13:51:27.799  Internet connection still offline after 41 attempts (unable to reach API)
+warn: 2017/11/11 13:51:47.806  Internet connection still offline after 42 attempts (unable to reach API)
+warn: 2017/11/11 13:52:07.811  Internet connection still offline after 43 attempts (unable to reach API)
+warn: 2017/11/11 13:52:27.815  Internet connection still offline after 44 attempts (unable to reach API)
+info: Nov-11 13:52:47.595 [SOCKET-MANAGER] (T771AR265) Spent 300000 ms in wait_for_connectivity state; giving up
+info: Nov-11 13:52:47.596 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to error
+info: Nov-11 13:52:47.596 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Nov-11 13:52:47.599 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/11/11 13:52:47.599  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:17812)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:38459)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40162)
+at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:42453
+info: Nov-11 13:52:47.604 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Nov-11 13:52:47.604 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: 2017/11/11 13:52:47.819  Internet connection still offline after 45 attempts (unable to reach API)
+warn: 2017/11/11 13:53:07.823  Internet connection still offline after 46 attempts (unable to reach API)
+warn: 2017/11/11 13:53:27.828  Internet connection still offline after 47 attempts (unable to reach API)
+warn: 2017/11/11 13:53:47.832  Internet connection still offline after 48 attempts (unable to reach API)
+warn: 2017/11/11 13:54:07.837  Internet connection still offline after 49 attempts (unable to reach API)
+warn: 2017/11/11 13:54:27.841  Internet connection still offline after 50 attempts (unable to reach API)
+warn: 2017/11/11 13:54:47.845  Internet connection still offline after 51 attempts (unable to reach API)
+warn: 2017/11/11 13:55:07.851  Internet connection still offline after 52 attempts (unable to reach API)
+warn: 2017/11/11 13:55:27.855  Internet connection still offline after 53 attempts (unable to reach API)
+warn: 2017/11/11 13:55:47.859  Internet connection still offline after 54 attempts (unable to reach API)
+warn: 2017/11/11 13:56:07.864  Internet connection still offline after 55 attempts (unable to reach API)
+warn: 2017/11/11 13:56:27.868  Internet connection still offline after 56 attempts (unable to reach API)
+warn: 2017/11/11 13:56:47.873  Internet connection still offline after 57 attempts (unable to reach API)
+warn: 2017/11/11 13:57:07.877  Internet connection still offline after 58 attempts (unable to reach API)
+warn: 2017/11/11 13:57:27.881  Internet connection still offline after 59 attempts (unable to reach API)
+info: Nov-11 13:57:47.604 [SOCKET-MANAGER] (T771AR265) Spent 300000 ms in wait_for_connectivity state; giving up
+info: Nov-11 13:57:47.605 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to error
+info: Nov-11 13:57:47.605 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Nov-11 13:57:47.608 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/11/11 13:57:47.609  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:17812)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.69d574e1f5e39af25c70.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:38459)
+at e (https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:40162)
+at https://a.slack-edge.com/bv1-1/application.3a0c72b1e531d8aca857.min.js:12:42453
+info: Nov-11 13:57:47.613 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Nov-11 13:57:47.613 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: 2017/11/11 13:57:47.885  Internet connection still offline after 60 attempts (unable to reach API)
+warn: 2017/11/11 13:58:07.894  Internet connection still offline after 61 attempts (unable to reach API)
+warn: 2017/11/11 13:58:27.898  Internet connection still offline after 62 attempts (unable to reach API)
+warn: 2017/11/11 13:58:47.903  Internet connection still offline after 63 attempts (unable to reach API)
+warn: 2017/11/11 13:59:07.908  Internet connection still offline after 64 attempts (unable to reach API)
+warn: 2017/11/11 13:59:27.915  Internet connection still offline after 65 attempts (unable to reach API)
+warn: 2017/11/11 13:59:47.919  Internet connection still offline after 66 attempts (unable to reach API)
+warn: 2017/11/11 14:00:07.923  Internet connection still offline after 67 attempts (unable to reach API)
+warn: 2017/11/11 14:00:27.928  Internet connection still offline after 68 attempts (unable to reach API)
+warn: 2017/11/11 14:00:47.932  Internet connection still offline after 69 attempts (unable to reach API)
+warn: 2017/11/11 14:01:07.936  Internet connection still offline after 70 attempts (unable to reach API)
+warn: 2017/11/11 14:01:27.940  Internet connection still offline after 71 attempts (unable to reach API)
+warn: 2017/11/11 14:01:47.944  Internet connection still offline after 72 attempts (unable to reach API)
+warn: 2017/11/11 14:02:07.949  Internet connection still offline after 73 attempts (unable to reach API)
+info: 2017/11/11 14:02:28.262  Internet connection has been re-established after 74 retry attempts; offline for NaN seconds
+info: Nov-11 14:02:28.264 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-11 14:02:28.265 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-11 14:02:28.274 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Nov-11 14:02:28.275 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Nov-11 14:02:28.278 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Nov-11 14:02:28.278 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-11 14:02:28.283 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Nov-11 14:02:28.284 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Nov-11 14:02:28.286 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Nov-11 14:02:28.286 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Nov-11 14:02:28.818 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Nov-11 14:02:28.819 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: 2017/11/11 14:02:28.824  Got start data from Socket Manager; hydrating it
+warn: 2017/11/11 14:02:28.836  Received a reply to a message we have no record of sending (reply_to = 585, type = message)
+info: 2017/11/11 14:02:28.893  Successfully hydrated start data from Socket Manager; processing it
+info: Nov-11 14:02:29.403 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-11 14:02:29.403 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Nov-11 14:02:29.403 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Nov-11 14:02:29.405 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Nov-11 14:02:29.405 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-11 14:02:29.407 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Nov-11 14:02:29.407 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Nov-11 14:02:29.409 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-11 14:02:29.410 [EVENTLOG] fr=false, lc=false, lt=1510428698.000093
+info: Nov-11 14:02:29.410 [EVENTLOG] fetching events since 1510428698.000093 (-19748.000092983246 seconds ago)
+info: 2017/11/11 14:02:29.590  Finished processing users.counts
+info: 2017/11/11 14:02:29.590  0 IMs with unreads, 0 total dm_count
+info: Nov-11 14:02:29.591 [EVENTLOG] nothing to process
+info: Nov-11 14:02:29.591 [EVENTLOG] fetched finish (cancelled? false)
+info: Nov-11 14:02:29.591 [EVENTLOG] dispatching signal and clearing timestamp
+warn: 2017/11/11 14:51:09.671  we already have an im for this user: U77PRKAF4
+warn: 2017/11/11 14:51:23.956  checkInitialMsgHistory NOT DOING ANYTHING, because "D7YNQJCHZ" history_is_being_fetched:true
+warn: 2017/11/11 14:51:24.114  checkInitialMsgHistory NOT DOING ANYTHING, because "D7YNQJCHZ" history_is_being_fetched:true
+info: Nov-11 15:04:43.423 [ACTION:CHANNEL-SIDEBAR] Selected D7YNQJCHZ
+info: Nov-11 15:04:43.564 [HISTORY] Not loading scrollback in D7YNQJCHZ: We have the oldest msg: 1510433486.000008. is_limited:undefined
+info: Nov-11 15:05:14.542 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: Nov-11 15:10:47.644 [ACTION:CHANNEL-SIDEBAR] Selected D7YNQJCHZ
+info: Nov-11 15:10:47.813 [HISTORY] Not loading scrollback in D7YNQJCHZ: We have the oldest msg: 1510433486.000008. is_limited:undefined
+info: Nov-11 15:10:53.150 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: Nov-11 15:42:38.980 [ACTION:CHANNEL-SIDEBAR] Selected D7YNQJCHZ
+info: Nov-11 15:42:38.257 [HISTORY] Not loading scrollback in D7YNQJCHZ: We have the oldest msg: 1510433486.000008. is_limited:undefined
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/10/17, 13:12:09:144      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝
+info: Dec-10 13:12:14.550 [BOOT] booted! pri:0 version:1512848148 start_ms:1512911531228 (2826ms ago)
+info: Dec-10 13:12:14.560 [BOOT] Starting incremental boot (early)
+info: Dec-10 13:12:14.414 [SOCKET-MANAGER] (T771AR265) Changing from never_connected to prov_connect
+info: Dec-10 13:12:14.414 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-10 13:12:14.415 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-10 13:12:14.415 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-10 13:12:14.875 [BOOT] Finalizing incremental boot
+info: Dec-10 13:12:15.487 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-10 13:12:15.488 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-10 13:12:15.489 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/10 13:12:15.493  Received a reply to a message we have no record of sending (reply_to = 55374, type = message)
+info: Dec-10 13:12:15.685 [BOOT] Completed incremental boot
+info: Dec-10 13:12:16.117 [HISTORY] D7YNQJCHZ HAS MORE
+info: Dec-10 13:12:16.152 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-10 13:12:16.153 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-10 13:12:16.153 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-10 13:12:16.157 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-10 13:12:16.157 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-10 13:12:16.163 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-10 13:12:16.163 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-10 13:12:16.166 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-10 13:12:16.167 [BOOT] Finished first boot 1762 ms after DOM ready
+warn: Dec-10 13:12:16.264 TS.search.autocomplete: input event "input" not found
+info: Dec-10 13:12:16.603 [INFO] Finished processing users.counts
+info: Dec-10 13:12:16.603 [INFO] 0 IMs with unreads, 0 total dm_count
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Dec-10 13:12:20.709 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: Dec-10 13:46:39.911 [ACTION:CHANNEL-SIDEBAR] Selected C77LNDZ1B
+info: Dec-10 14:57:52.145 [ACTION:CHANNEL-SIDEBAR] Selected C77LNDZ1B
+info: Dec-10 14:57:52.731 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+warn: Dec-10 15:05:53.164 Trying to rebuild message file, but cannot rebuild hosted
+warn: %cUnhandled rejection Error: Cannot send message; this socket has been closed
+    at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:969996)
+    at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:934930)
+    at https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:851519
+    at https://a.slack-edge.com/bv1-1/application.b8bf95e00ac94260ac54.min.js:1:2046654
+    at Object.dispatch (https://a.slack-edge.com/bv1-1/application.b8bf95e00ac94260ac54.min.js:1:408677)
+    at Object.t [as dispatch] (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.d463011857dc6685d77f.min.js:1:176902)
+    at Object.send (https://a.slack-edge.com/bv1-1/application.b8bf95e00ac94260ac54.min.js:1:2192514)
+    at Object.e [as tickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.d7592b55a7c38c64a66c.min.js:1:428544)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.d7592b55a7c38c64a66c.min.js:1:428361)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.fa3b134a8bcadb792ed1.min.js:1:142978)
+    at Object.maybeTickleMS (https://cs196projects.slack.com/messages:811:11)
+    at <anonymous>:1:7
+    at EventEmitter.electron.ipcRenderer.on (/usr/lib/slack/resources/electron.asar/renderer/init.js:52:28)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+info: Dec-10 16:06:43.605 [SOCKET-MANAGER] (T771AR265) Changing from connected to error
+info: Dec-10 16:06:43.610 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Dec-10 16:06:43.615 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/12/10 16:06:43.619  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.fa3b134a8bcadb792ed1.min.js:1:75942)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:759284
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:940633)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:942357)
+at s (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:853481)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:942730)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:936755)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:1322848)
+at E (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:967886)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.512be69daed71e7ebfc1.min.js:1:969565)
+info: Dec-10 16:06:43.631 [INFO] Hiding the reconnection banner because we are disconnected
+info: Dec-10 16:06:43.817 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Dec-10 16:06:43.818 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-10 16:06:43.963 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-10 16:06:43.964 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-10 16:06:43.968 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-10 16:06:43.969 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-10 16:06:43.971 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-10 16:06:43.971 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-10 16:06:43.976 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-10 16:06:43.976 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-10 16:06:43.979 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-10 16:06:43.979 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-10 16:06:44.267 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-10 16:06:44.267 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-10 16:06:44.278 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/10 16:06:44.289  Received a reply to a message we have no record of sending (reply_to = 56541, type = message)
+info: Dec-10 16:06:44.322 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-10 16:06:45.340 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-10 16:06:45.350 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-10 16:06:45.350 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-10 16:06:45.360 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-10 16:06:45.360 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-10 16:06:45.370 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-10 16:06:45.380 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-10 16:06:45.390 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-10 16:06:45.400 [EVENTLOG] fr=false, lc=false, lt=1512942064.000127
+info: Dec-10 16:06:45.400 [EVENTLOG] fetching events since 1512942064.000127 (-20058.000127077103 seconds ago)
+info: Dec-10 16:06:45.204 [INFO] Finished processing users.counts
+info: Dec-10 16:06:45.205 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-10 16:06:45.206 [EVENTLOG] nothing to process
+info: Dec-10 16:06:45.206 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-10 16:06:45.207 [EVENTLOG] dispatching signal and clearing timestamp
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/12/17, 00:34:38:395      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝
+info: Dec-12 00:34:42.438 [BOOT] booted! pri:0 version:1513051253 start_ms:1513038880256 (2182ms ago)
+info: Dec-12 00:34:42.439 [BOOT] Starting incremental boot (early)
+info: Dec-12 00:34:42.758 [SOCKET-MANAGER] (T771AR265) Changing from never_connected to prov_connect
+info: Dec-12 00:34:42.758 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 00:34:42.759 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 00:34:42.759 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 00:34:43.950 [BOOT] Finalizing incremental boot
+info: Dec-12 00:34:43.869 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Dec-12 00:34:43.971 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 00:34:43.971 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 00:34:43.973 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Dec-12 00:34:43.974 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 00:34:43.978  Received a reply to a message we have no record of sending (reply_to = 17675, type = message)
+info: Dec-12 00:34:44.175 [BOOT] Completed incremental boot
+info: Dec-12 00:34:44.530 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 00:34:44.530 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 00:34:44.530 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 00:34:44.533 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 00:34:44.533 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 00:34:44.536 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 00:34:44.537 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 00:34:44.543 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 00:34:44.544 [BOOT] Finished first boot 1793 ms after DOM ready
+info: Dec-12 00:34:44.754 [INFO] Finished processing users.counts
+info: Dec-12 00:34:44.754 [INFO] 0 IMs with unreads, 0 total dm_count
+warn: 🐶 CSS check: no cssRules or rules defined?
+warn: Dec-12 00:35:06.360 channel "C77RWFEE8" already displayed
+info: Dec-12 00:35:13.709 [INFO] TS.files.uploadProcessingOver polling_file_id:F8D4ULM99 polling_ticket:t286310156519 polling_count:3
+warn: Dec-12 00:35:14.430 Trying to rebuild message file, but cannot rebuild hosted
+info: Dec-12 03:27:48.557 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 03:27:48.559 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 03:27:48.561 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 03:27:48.564 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 03:27:48.564 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 03:27:48.566 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 03:27:48.566 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 03:27:48.568 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 03:27:48.568 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 03:27:48.568 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 03:27:48.575 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 03:27:49.571 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 03:37:11.779 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 03:37:12.780 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Dec-12 03:37:13.780 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Dec-12 03:37:14.781 Internet connection still offline after 5 attempts (browser says it is still offline)
+info: Dec-12 03:37:15.925 [INFO] Internet connection has been re-established after 6 retry attempts; offline for NaN seconds
+info: Dec-12 03:37:15.926 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 03:37:15.926 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 03:37:15.927 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 03:37:15.927 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 03:37:15.928 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 03:37:15.928 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 03:37:15.930 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 03:37:15.930 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 03:37:15.931 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 03:37:15.931 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 03:37:16.181 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 03:37:16.181 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 03:37:16.184 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 03:37:16.189  Received a reply to a message we have no record of sending (reply_to = 19075, type = message)
+info: Dec-12 03:37:16.216 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 03:37:16.752 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 03:37:16.753 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 03:37:16.753 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 03:37:16.754 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 03:37:16.754 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 03:37:16.755 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 03:37:16.755 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 03:37:16.758 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 03:37:16.759 [EVENTLOG] fr=false, lc=false, lt=1513069566.000360
+info: Dec-12 03:37:16.759 [EVENTLOG] fetching events since 1513069566.000360 (-19729.000360012054 seconds ago)
+info: Dec-12 03:37:16.901 [EVENTLOG] nothing to process
+info: Dec-12 03:37:16.901 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 03:37:16.901 [EVENTLOG] dispatching signal and clearing timestamp
+info: Dec-12 03:37:16.912 [INFO] Finished processing users.counts
+info: Dec-12 03:37:16.912 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 04:40:04.886 [INFO] set a new TS.client.msg_pane.last_rendered_msg && TS.client.msg_pane.last_in_stream_msg because the deleted msg was the last one
+info: Dec-12 14:44:20.120 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 14:44:20.130 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 14:44:20.160 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 14:44:20.180 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 14:44:20.190 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 14:44:20.200 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 14:44:20.200 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 14:44:20.220 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 14:44:20.220 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 14:44:20.220 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 14:44:20.310 [INFO] Hiding the reconnection banner because we are disconnected
+error: 2017/12/12 14:44:20.179 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"_http_error\",\"status\":0,\"retry_after\":null}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:75396)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:135038)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:130231)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:132115)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:133521)"}
+warn: Dec-12 14:44:20.179 args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: Dec-12 14:44:21.240 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 14:44:22.250 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 14:44:22.674 re Qing api call "conversations.mark"
+error: 2017/12/12 14:44:22.680 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"_http_error\",\"status\":0,\"retry_after\":null}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:75396)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:135038)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:130231)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:132115)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:133521)"}
+warn: Dec-12 14:44:22.680 args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+info: Dec-12 14:44:23.199 [INFO] Internet connection has been re-established after 3 retry attempts; offline for NaN seconds
+info: Dec-12 14:44:23.199 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 14:44:23.199 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 14:44:23.201 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 14:44:23.201 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 14:44:23.202 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 14:44:23.202 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 14:44:23.203 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 14:44:23.204 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 14:44:23.206 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 14:44:23.206 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 14:44:23.471 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 14:44:23.471 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 14:44:23.474 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 14:44:23.479  Received a reply to a message we have no record of sending (reply_to = 2303, type = message)
+info: Dec-12 14:44:23.506 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 14:44:23.908 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 14:44:23.908 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 14:44:23.908 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 14:44:23.909 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 14:44:23.909 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 14:44:23.910 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 14:44:23.910 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 14:44:23.912 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 14:44:23.912 [EVENTLOG] fr=false, lc=false, lt=1513076584.000102
+info: Dec-12 14:44:23.912 [EVENTLOG] fetching events since 1513076584.000102 (13279.999897956848 seconds ago)
+info: Dec-12 14:44:24.440 [INFO] Finished processing users.counts
+info: Dec-12 14:44:24.450 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 14:44:24.490 [EVENTLOG] processing 19 events out of a total set of 19
+info: Dec-12 14:44:24.530 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 14:44:24.540 [EVENTLOG] dispatching signal and clearing timestamp
+warn: Dec-12 14:44:27.282 re Qing api call "conversations.mark"
+info: Dec-12 14:49:43.115 [ACTION:CHANNEL-SIDEBAR] Selected D778XTPAM
+info: Dec-12 16:28:14.907 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 16:28:14.910 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 16:28:14.913 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 16:28:14.915 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 16:28:14.915 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 16:28:14.917 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 16:28:14.917 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 16:28:14.918 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 16:28:14.918 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 16:28:14.918 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 16:28:14.925 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 16:28:15.922 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 16:28:16.923 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 16:28:17.924 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Dec-12 16:45:10.134 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Dec-12 16:45:11.135 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Dec-12 16:45:12.135 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Dec-12 16:45:13.136 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Dec-12 16:45:14.136 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Dec-12 16:45:15.137 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Dec-12 16:45:16.137 Internet connection still offline after 10 attempts (browser says it is still offline)
+warn: Dec-12 16:45:17.138 Internet connection still offline after 11 attempts (browser says it is still offline)
+warn: Dec-12 16:45:18.138 Internet connection still offline after 12 attempts (browser says it is still offline)
+warn: Dec-12 16:45:19.139 Internet connection still offline after 13 attempts (browser says it is still offline)
+warn: Dec-12 16:45:20.139 Internet connection still offline after 14 attempts (browser says it is still offline)
+warn: Dec-12 16:45:21.140 Internet connection still offline after 15 attempts (browser says it is still offline)
+warn: Dec-12 16:45:22.140 Internet connection still offline after 16 attempts (browser says it is still offline)
+warn: Dec-12 16:45:23.141 Internet connection still offline after 17 attempts (browser says it is still offline)
+warn: Dec-12 16:45:24.142 Internet connection still offline after 18 attempts (browser says it is still offline)
+warn: Dec-12 16:45:25.142 Internet connection still offline after 19 attempts (browser says it is still offline)
+warn: Dec-12 16:45:26.143 Internet connection still offline after 20 attempts (browser says it is still offline)
+warn: Dec-12 16:45:27.143 Internet connection still offline after 21 attempts (browser says it is still offline)
+warn: Dec-12 16:45:28.144 Internet connection still offline after 22 attempts (browser says it is still offline)
+warn: Dec-12 16:45:29.144 Internet connection still offline after 23 attempts (browser says it is still offline)
+warn: Dec-12 16:45:30.145 Internet connection still offline after 24 attempts (browser says it is still offline)
+warn: Dec-12 16:45:31.145 Internet connection still offline after 25 attempts (browser says it is still offline)
+warn: Dec-12 16:45:32.146 Internet connection still offline after 26 attempts (browser says it is still offline)
+warn: Dec-12 16:45:33.146 Internet connection still offline after 27 attempts (browser says it is still offline)
+warn: Dec-12 16:45:34.147 Internet connection still offline after 28 attempts (browser says it is still offline)
+warn: Dec-12 16:45:35.147 Internet connection still offline after 29 attempts (browser says it is still offline)
+warn: Dec-12 16:45:36.148 Internet connection still offline after 30 attempts (browser says it is still offline)
+warn: Dec-12 16:45:37.148 Internet connection still offline after 31 attempts (browser says it is still offline)
+warn: Dec-12 16:45:38.149 Internet connection still offline after 32 attempts (browser says it is still offline)
+warn: Dec-12 16:45:39.150 Internet connection still offline after 33 attempts (browser says it is still offline)
+warn: Dec-12 16:45:40.150 Internet connection still offline after 34 attempts (browser says it is still offline)
+warn: Dec-12 16:45:41.151 Internet connection still offline after 35 attempts (browser says it is still offline)
+warn: Dec-12 16:45:42.151 Internet connection still offline after 36 attempts (browser says it is still offline)
+warn: Dec-12 16:45:43.152 Internet connection still offline after 37 attempts (browser says it is still offline)
+warn: Dec-12 16:45:44.152 Internet connection still offline after 38 attempts (browser says it is still offline)
+warn: Dec-12 16:45:45.153 Internet connection still offline after 39 attempts (browser says it is still offline)
+warn: Dec-12 16:45:46.153 Internet connection still offline after 40 attempts (browser says it is still offline)
+warn: Dec-12 16:45:47.154 Internet connection still offline after 41 attempts (browser says it is still offline)
+warn: Dec-12 16:45:48.154 Internet connection still offline after 42 attempts (browser says it is still offline)
+warn: Dec-12 16:45:49.156 Internet connection still offline after 43 attempts (browser says it is still offline)
+warn: Dec-12 16:45:50.156 Internet connection still offline after 44 attempts (browser says it is still offline)
+warn: Dec-12 16:45:51.157 Internet connection still offline after 45 attempts (browser says it is still offline)
+warn: Dec-12 16:45:52.157 Internet connection still offline after 46 attempts (browser says it is still offline)
+warn: Dec-12 16:45:53.158 Internet connection still offline after 47 attempts (browser says it is still offline)
+warn: Dec-12 16:45:54.158 Internet connection still offline after 48 attempts (browser says it is still offline)
+warn: Dec-12 16:45:55.159 Internet connection still offline after 49 attempts (browser says it is still offline)
+warn: Dec-12 16:45:56.159 Internet connection still offline after 50 attempts (browser says it is still offline)
+warn: Dec-12 16:45:57.160 Internet connection still offline after 51 attempts (browser says it is still offline)
+warn: Dec-12 16:45:58.161 Internet connection still offline after 52 attempts (browser says it is still offline)
+warn: Dec-12 16:45:59.163 Internet connection still offline after 53 attempts (browser says it is still offline)
+warn: Dec-12 16:46:00.164 Internet connection still offline after 54 attempts (browser says it is still offline)
+warn: Dec-12 16:46:01.165 Internet connection still offline after 55 attempts (browser says it is still offline)
+warn: Dec-12 16:46:02.165 Internet connection still offline after 56 attempts (browser says it is still offline)
+warn: Dec-12 16:46:03.166 Internet connection still offline after 57 attempts (browser says it is still offline)
+warn: Dec-12 16:46:04.166 Internet connection still offline after 58 attempts (browser says it is still offline)
+warn: Dec-12 16:46:05.167 Internet connection still offline after 59 attempts (browser says it is still offline)
+warn: Dec-12 16:46:06.167 Internet connection still offline after 60 attempts (browser says it is still offline)
+warn: Dec-12 16:46:07.168 Internet connection still offline after 61 attempts (browser says it is still offline)
+warn: Dec-12 16:46:08.168 Internet connection still offline after 62 attempts (browser says it is still offline)
+warn: Dec-12 16:46:09.169 Internet connection still offline after 63 attempts (browser says it is still offline)
+warn: Dec-12 16:46:10.169 Internet connection still offline after 64 attempts (browser says it is still offline)
+warn: Dec-12 16:46:11.170 Internet connection still offline after 65 attempts (browser says it is still offline)
+warn: Dec-12 16:46:12.170 Internet connection still offline after 66 attempts (browser says it is still offline)
+warn: Dec-12 16:46:13.171 Internet connection still offline after 67 attempts (browser says it is still offline)
+warn: Dec-12 16:46:14.171 Internet connection still offline after 68 attempts (browser says it is still offline)
+warn: Dec-12 16:46:15.172 Internet connection still offline after 69 attempts (browser says it is still offline)
+warn: Dec-12 16:46:16.172 Internet connection still offline after 70 attempts (browser says it is still offline)
+warn: Dec-12 16:46:17.173 Internet connection still offline after 71 attempts (browser says it is still offline)
+warn: Dec-12 16:46:18.173 Internet connection still offline after 72 attempts (browser says it is still offline)
+warn: Dec-12 16:46:19.174 Internet connection still offline after 73 attempts (browser says it is still offline)
+warn: Dec-12 16:46:20.175 Internet connection still offline after 74 attempts (browser says it is still offline)
+warn: Dec-12 16:46:21.175 Internet connection still offline after 75 attempts (browser says it is still offline)
+warn: Dec-12 16:46:22.175 Internet connection still offline after 76 attempts (browser says it is still offline)
+warn: Dec-12 16:46:23.176 Internet connection still offline after 77 attempts (browser says it is still offline)
+warn: Dec-12 16:46:24.176 Internet connection still offline after 78 attempts (browser says it is still offline)
+warn: Dec-12 16:46:25.177 Internet connection still offline after 79 attempts (browser says it is still offline)
+warn: Dec-12 16:46:26.177 Internet connection still offline after 80 attempts (browser says it is still offline)
+warn: Dec-12 16:46:27.178 Internet connection still offline after 81 attempts (browser says it is still offline)
+warn: Dec-12 16:46:28.179 Internet connection still offline after 82 attempts (browser says it is still offline)
+warn: Dec-12 16:46:29.179 Internet connection still offline after 83 attempts (browser says it is still offline)
+warn: Dec-12 16:46:30.180 Internet connection still offline after 84 attempts (browser says it is still offline)
+warn: Dec-12 16:46:31.180 Internet connection still offline after 85 attempts (browser says it is still offline)
+warn: Dec-12 16:46:32.181 Internet connection still offline after 86 attempts (browser says it is still offline)
+warn: Dec-12 16:46:33.182 Internet connection still offline after 87 attempts (browser says it is still offline)
+warn: Dec-12 16:46:34.182 Internet connection still offline after 88 attempts (browser says it is still offline)
+warn: Dec-12 16:46:35.183 Internet connection still offline after 89 attempts (browser says it is still offline)
+warn: Dec-12 16:46:36.183 Internet connection still offline after 90 attempts (browser says it is still offline)
+warn: Dec-12 16:46:37.184 Internet connection still offline after 91 attempts (browser says it is still offline)
+warn: Dec-12 16:46:38.185 Internet connection still offline after 92 attempts (browser says it is still offline)
+warn: Dec-12 16:46:39.185 Internet connection still offline after 93 attempts (browser says it is still offline)
+warn: Dec-12 16:46:40.186 Internet connection still offline after 94 attempts (browser says it is still offline)
+warn: Dec-12 16:46:41.186 Internet connection still offline after 95 attempts (browser says it is still offline)
+warn: Dec-12 16:46:42.187 Internet connection still offline after 96 attempts (browser says it is still offline)
+warn: Dec-12 16:46:43.187 Internet connection still offline after 97 attempts (browser says it is still offline)
+warn: Dec-12 16:46:44.188 Internet connection still offline after 98 attempts (browser says it is still offline)
+warn: Dec-12 16:46:45.188 Internet connection still offline after 99 attempts (browser says it is still offline)
+warn: Dec-12 16:46:46.189 Internet connection still offline after 100 attempts (browser says it is still offline)
+warn: Dec-12 16:46:47.189 Internet connection still offline after 101 attempts (browser says it is still offline)
+warn: Dec-12 16:46:48.190 Internet connection still offline after 102 attempts (browser says it is still offline)
+warn: Dec-12 16:46:49.190 Internet connection still offline after 103 attempts (browser says it is still offline)
+warn: Dec-12 16:46:50.191 Internet connection still offline after 104 attempts (browser says it is still offline)
+warn: Dec-12 16:46:51.191 Internet connection still offline after 105 attempts (browser says it is still offline)
+warn: Dec-12 16:46:52.192 Internet connection still offline after 106 attempts (browser says it is still offline)
+warn: Dec-12 16:46:53.192 Internet connection still offline after 107 attempts (browser says it is still offline)
+warn: Dec-12 16:46:54.193 Internet connection still offline after 108 attempts (browser says it is still offline)
+warn: Dec-12 16:46:55.193 Internet connection still offline after 109 attempts (browser says it is still offline)
+warn: Dec-12 16:46:56.194 Internet connection still offline after 110 attempts (browser says it is still offline)
+warn: Dec-12 16:46:57.194 Internet connection still offline after 111 attempts (browser says it is still offline)
+warn: Dec-12 16:46:58.195 Internet connection still offline after 112 attempts (browser says it is still offline)
+warn: Dec-12 16:46:59.195 Internet connection still offline after 113 attempts (browser says it is still offline)
+warn: Dec-12 16:47:00.196 Internet connection still offline after 114 attempts (browser says it is still offline)
+warn: Dec-12 16:47:01.197 Internet connection still offline after 115 attempts (browser says it is still offline)
+warn: Dec-12 16:47:02.197 Internet connection still offline after 116 attempts (browser says it is still offline)
+warn: Dec-12 16:47:03.198 Internet connection still offline after 117 attempts (browser says it is still offline)
+warn: Dec-12 16:47:04.200 Internet connection still offline after 118 attempts (browser says it is still offline)
+warn: Dec-12 16:47:05.201 Internet connection still offline after 119 attempts (browser says it is still offline)
+warn: Dec-12 16:47:06.201 Internet connection still offline after 120 attempts (browser says it is still offline)
+warn: Dec-12 16:47:07.202 Internet connection still offline after 121 attempts (browser says it is still offline)
+warn: Dec-12 16:47:08.202 Internet connection still offline after 122 attempts (browser says it is still offline)
+warn: Dec-12 16:47:09.203 Internet connection still offline after 123 attempts (browser says it is still offline)
+warn: Dec-12 16:47:10.203 Internet connection still offline after 124 attempts (browser says it is still offline)
+warn: Dec-12 16:47:11.204 Internet connection still offline after 125 attempts (browser says it is still offline)
+warn: Dec-12 16:47:12.204 Internet connection still offline after 126 attempts (browser says it is still offline)
+warn: Dec-12 16:47:13.205 Internet connection still offline after 127 attempts (browser says it is still offline)
+warn: Dec-12 16:47:14.212 Internet connection still offline after 128 attempts (unable to reach API)
+warn: Dec-12 16:47:15.217 Internet connection still offline after 129 attempts (unable to reach API)
+info: Dec-12 16:47:16.639 [INFO] Internet connection has been re-established after 130 retry attempts; offline for NaN seconds
+info: Dec-12 16:47:16.640 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 16:47:16.641 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 16:47:16.642 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 16:47:16.642 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 16:47:16.643 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 16:47:16.643 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 16:47:16.645 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 16:47:16.645 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 16:47:16.646 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 16:47:16.646 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 16:47:17.372 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 16:47:17.372 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 16:47:17.375 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 16:47:17.379  Received a reply to a message we have no record of sending (reply_to = 24234, type = message)
+info: Dec-12 16:47:17.601 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 16:47:18.143 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 16:47:18.144 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 16:47:18.144 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 16:47:18.145 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 16:47:18.145 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 16:47:18.145 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 16:47:18.146 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 16:47:18.147 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 16:47:18.148 [EVENTLOG] fr=false, lc=false, lt=1513117669.000571
+info: Dec-12 16:47:18.148 [EVENTLOG] fetching events since 1513117669.000571 (-20430.000571012497 seconds ago)
+info: Dec-12 16:47:18.887 [EVENTLOG] nothing to process
+info: Dec-12 16:47:18.887 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 16:47:18.887 [EVENTLOG] dispatching signal and clearing timestamp
+info: Dec-12 16:47:18.892 [INFO] Finished processing users.counts
+info: Dec-12 16:47:18.892 [INFO] 0 IMs with unreads, 0 total dm_count
+warn: %cUnhandled rejection Error: Cannot send message; this socket has been closed
+    at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:968368)
+    at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:933302)
+    at https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:849352
+    at https://a.slack-edge.com/bv1-1/application.9405599f41b2f933ff00.min.js:1:2051259
+    at Object.dispatch (https://a.slack-edge.com/bv1-1/application.9405599f41b2f933ff00.min.js:1:408633)
+    at Object.t [as dispatch] (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:176797)
+    at Object.send (https://a.slack-edge.com/bv1-1/application.9405599f41b2f933ff00.min.js:1:2197369)
+    at Object.e [as tickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.11485a05b28753d8e80b.min.js:1:428736)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-client.11485a05b28753d8e80b.min.js:1:428553)
+    at Object.e [as maybeTickleMS] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:142869)
+    at Object.maybeTickleMS (https://cs196projects.slack.com/messages:811:11)
+    at <anonymous>:1:7
+    at EventEmitter.electron.ipcRenderer.on (/usr/lib/slack/resources/electron.asar/renderer/init.js:52:28)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+info: Dec-12 17:32:36.955 [SOCKET-MANAGER] (T771AR265) Changing from connected to error
+info: Dec-12 17:32:36.959 [SOCKET-MANAGER] (T771AR265) will stay in error state for up to 10000 ms
+error: Dec-12 17:32:36.964 SOCKET-MANAGER (T771AR265) Closing socket due to unknown error
+info: 2017/12/12 17:32:36.969  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:75837)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:759303
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:939005)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:940729)
+at s (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:851314)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:941102)
+at e (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:935127)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:1321234)
+at E (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:966258)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.2707a66c7269dae536d7.min.js:1:967937)
+info: Dec-12 17:32:36.979 [INFO] Hiding the reconnection banner because we are disconnected
+info: Dec-12 17:32:37.870 [SOCKET-MANAGER] (T771AR265) Changing from error to wait_for_connectivity
+info: Dec-12 17:32:37.870 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+warn: Dec-12 17:33:17.121 Internet connection still offline after 1 attempts (unable to reach API)
+warn: Dec-12 17:33:47.131 Internet connection still offline after 2 attempts (unable to reach API)
+warn: Dec-12 17:34:17.147 Internet connection still offline after 3 attempts (unable to reach API)
+info: Dec-12 17:34:23.655 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+warn: Dec-12 17:34:37.148 Internet connection still offline after 4 attempts (browser says it is still offline)
+info: Dec-12 17:34:57.380 [INFO] Internet connection has been re-established after 5 retry attempts; offline for NaN seconds
+info: Dec-12 17:34:57.382 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 17:34:57.382 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 17:34:57.385 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 17:34:57.386 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 17:34:57.386 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 17:34:57.387 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 17:34:57.389 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 17:34:57.389 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 17:34:57.390 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 17:34:57.390 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 17:34:57.896 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 17:34:57.897 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 17:34:57.905 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 17:34:57.918  Received a reply to a message we have no record of sending (reply_to = 19099, type = message)
+info: Dec-12 17:34:58.800 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 17:34:58.508 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 17:34:58.509 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 17:34:58.509 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 17:34:58.514 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 17:34:58.514 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 17:34:58.515 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 17:34:58.515 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 17:34:58.526 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 17:34:58.526 [EVENTLOG] fr=false, lc=false, lt=1513120393.000070
+info: Dec-12 17:34:58.527 [EVENTLOG] fetching events since 1513120393.000070 (-20294.000070095062 seconds ago)
+info: Dec-12 17:34:58.684 [INFO] Finished processing users.counts
+info: Dec-12 17:34:58.684 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 17:34:58.686 [EVENTLOG] nothing to process
+info: Dec-12 17:34:58.686 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 17:34:58.686 [EVENTLOG] dispatching signal and clearing timestamp
+info: Dec-12 17:37:49.608 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: Dec-12 18:07:00.915 [ACTION:CHANNEL-SIDEBAR] Selected D778XTPAM
+info: Dec-12 18:11:32.203 [INFO] created channel C8ERM8GK1
+info: Dec-12 18:11:47.715 [ACTION:CHANNEL-SIDEBAR] Selected C77RWFEE8
+info: Dec-12 18:12:10.790 [ACTION:CHANNEL-SIDEBAR] Selected D778XTPAM
+info: Dec-12 18:27:40.494 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 18:27:40.497 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 18:27:40.500 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 18:27:40.503 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 18:27:40.503 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 18:27:40.505 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 18:27:40.505 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 18:27:40.506 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 18:27:40.507 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 18:27:40.507 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 18:27:40.514 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 18:31:28.214 Internet connection still offline after 1 attempts (browser says it is still offline)
+info: Dec-12 18:31:29.478 [INFO] Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Dec-12 18:31:29.480 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 18:31:29.480 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 18:31:29.487 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 18:31:29.487 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 18:31:29.490 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 18:31:29.490 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 18:31:29.495 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 18:31:29.495 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 18:31:29.497 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 18:31:29.497 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 18:31:29.871 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 18:31:29.871 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 18:31:29.874 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 18:31:29.878  Received a reply to a message we have no record of sending (reply_to = 358, type = message)
+info: Dec-12 18:31:29.965 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 18:31:30.447 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 18:31:30.447 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 18:31:30.447 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 18:31:30.448 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 18:31:30.451 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 18:31:30.452 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 18:31:30.452 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 18:31:30.460 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 18:31:30.461 [EVENTLOG] fr=false, lc=false, lt=1513124483.000088
+info: Dec-12 18:31:30.461 [EVENTLOG] fetching events since 1513124483.000088 (-20992.000087976456 seconds ago)
+info: Dec-12 18:31:30.596 [INFO] Finished processing users.counts
+info: Dec-12 18:31:30.596 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 18:31:30.598 [EVENTLOG] nothing to process
+info: Dec-12 18:31:30.598 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 18:31:30.598 [EVENTLOG] dispatching signal and clearing timestamp
+info: Dec-12 19:11:13.353 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 19:11:13.353 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 19:11:13.357 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 19:11:13.360 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 19:11:13.361 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 19:11:13.364 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 19:11:13.365 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 19:11:13.369 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 19:11:13.369 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 19:11:13.370 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 19:11:13.378 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 19:16:22.149 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 19:16:23.149 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 19:16:24.150 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Dec-12 19:16:25.150 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Dec-12 19:16:26.151 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Dec-12 19:16:27.151 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Dec-12 19:16:28.152 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Dec-12 19:16:29.152 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Dec-12 19:16:30.153 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Dec-12 19:16:31.154 Internet connection still offline after 10 attempts (browser says it is still offline)
+warn: Dec-12 19:16:32.154 Internet connection still offline after 11 attempts (browser says it is still offline)
+warn: Dec-12 19:16:33.155 Internet connection still offline after 12 attempts (browser says it is still offline)
+warn: Dec-12 19:16:34.155 Internet connection still offline after 13 attempts (browser says it is still offline)
+warn: Dec-12 19:16:35.156 Internet connection still offline after 14 attempts (browser says it is still offline)
+warn: Dec-12 19:16:36.156 Internet connection still offline after 15 attempts (browser says it is still offline)
+warn: Dec-12 19:16:37.157 Internet connection still offline after 16 attempts (browser says it is still offline)
+warn: Dec-12 19:16:38.157 Internet connection still offline after 17 attempts (browser says it is still offline)
+warn: Dec-12 19:16:39.158 Internet connection still offline after 18 attempts (browser says it is still offline)
+warn: Dec-12 19:16:40.158 Internet connection still offline after 19 attempts (browser says it is still offline)
+warn: Dec-12 19:16:41.159 Internet connection still offline after 20 attempts (browser says it is still offline)
+warn: Dec-12 19:16:42.159 Internet connection still offline after 21 attempts (browser says it is still offline)
+warn: Dec-12 19:16:43.160 Internet connection still offline after 22 attempts (browser says it is still offline)
+warn: Dec-12 19:16:44.160 Internet connection still offline after 23 attempts (browser says it is still offline)
+warn: Dec-12 19:16:45.161 Internet connection still offline after 24 attempts (browser says it is still offline)
+warn: Dec-12 19:16:46.161 Internet connection still offline after 25 attempts (browser says it is still offline)
+warn: Dec-12 19:16:47.162 Internet connection still offline after 26 attempts (browser says it is still offline)
+warn: Dec-12 19:16:48.162 Internet connection still offline after 27 attempts (browser says it is still offline)
+warn: Dec-12 19:16:49.163 Internet connection still offline after 28 attempts (browser says it is still offline)
+warn: Dec-12 19:16:50.163 Internet connection still offline after 29 attempts (browser says it is still offline)
+warn: Dec-12 19:16:51.164 Internet connection still offline after 30 attempts (browser says it is still offline)
+warn: Dec-12 19:16:52.164 Internet connection still offline after 31 attempts (browser says it is still offline)
+warn: Dec-12 19:16:53.165 Internet connection still offline after 32 attempts (browser says it is still offline)
+warn: Dec-12 19:16:54.165 Internet connection still offline after 33 attempts (browser says it is still offline)
+warn: Dec-12 19:16:55.166 Internet connection still offline after 34 attempts (browser says it is still offline)
+warn: Dec-12 19:16:56.166 Internet connection still offline after 35 attempts (browser says it is still offline)
+warn: Dec-12 19:16:57.167 Internet connection still offline after 36 attempts (browser says it is still offline)
+warn: Dec-12 19:16:58.167 Internet connection still offline after 37 attempts (browser says it is still offline)
+warn: Dec-12 19:16:59.168 Internet connection still offline after 38 attempts (browser says it is still offline)
+warn: Dec-12 19:17:00.168 Internet connection still offline after 39 attempts (browser says it is still offline)
+warn: Dec-12 19:17:01.169 Internet connection still offline after 40 attempts (browser says it is still offline)
+warn: Dec-12 19:17:02.170 Internet connection still offline after 41 attempts (browser says it is still offline)
+warn: Dec-12 19:17:03.170 Internet connection still offline after 42 attempts (browser says it is still offline)
+warn: Dec-12 19:17:04.171 Internet connection still offline after 43 attempts (browser says it is still offline)
+warn: Dec-12 19:17:05.171 Internet connection still offline after 44 attempts (browser says it is still offline)
+warn: Dec-12 19:17:06.172 Internet connection still offline after 45 attempts (browser says it is still offline)
+warn: Dec-12 19:17:07.172 Internet connection still offline after 46 attempts (browser says it is still offline)
+info: Dec-12 19:17:08.420 [INFO] Internet connection has been re-established after 47 retry attempts; offline for NaN seconds
+info: Dec-12 19:17:08.421 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 19:17:08.421 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 19:17:08.424 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 19:17:08.425 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 19:17:08.427 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 19:17:08.427 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 19:17:08.434 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 19:17:08.434 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 19:17:08.439 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 19:17:08.439 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 19:17:08.807 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 19:17:08.807 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 19:17:08.812 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 19:17:08.814  Received a reply to a message we have no record of sending (reply_to = 498, type = message)
+info: Dec-12 19:17:08.849 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 19:17:09.395 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 19:17:09.396 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 19:17:09.396 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 19:17:09.403 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 19:17:09.404 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 19:17:09.412 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 19:17:09.412 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 19:17:09.419 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 19:17:09.419 [EVENTLOG] fr=false, lc=false, lt=1513125762.000016
+info: Dec-12 19:17:09.425 [EVENTLOG] fetching events since 1513125762.000016 (-19532.000015974045 seconds ago)
+error: 2017/12/12 19:17:09.597 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"_http_error\",\"status\":0,\"retry_after\":null}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:75396)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:135038)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:130231)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:132115)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:133521)"}
+warn: Dec-12 19:17:09.597 args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/12/12 19:17:09.599 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"_http_error\",\"status\":0,\"retry_after\":null}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c9336423a6f0c58aebcf.min.js:1:75396)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:135038)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:130231)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:132115)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.fb315701ce7c377d0abb.min.js:1:133521)"}
+warn: Dec-12 19:17:09.599 args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+info: Dec-12 19:17:09.615 [INFO] Finished processing users.counts
+info: Dec-12 19:17:09.616 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 19:17:09.618 [EVENTLOG] nothing to process
+info: Dec-12 19:17:09.618 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 19:17:09.618 [EVENTLOG] dispatching signal and clearing timestamp
+warn: Dec-12 19:17:12.125 re Qing api call "auth.currentSessions"
+warn: Dec-12 19:17:12.574 re Qing api call "i18n.translations.get"
+info: Dec-12 19:20:17.428 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 19:20:17.429 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 19:20:17.435 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 19:20:17.438 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 19:20:17.439 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 19:20:17.441 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 19:20:17.442 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 19:20:17.445 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 19:20:17.446 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 19:20:17.446 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 19:20:17.455 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 19:31:12.145 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 19:31:13.146 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 19:31:14.146 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Dec-12 19:31:15.149 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Dec-12 19:31:16.149 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Dec-12 19:31:17.150 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Dec-12 19:31:18.151 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Dec-12 19:31:19.151 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Dec-12 19:31:20.152 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Dec-12 19:31:21.152 Internet connection still offline after 10 attempts (browser says it is still offline)
+warn: Dec-12 19:31:22.153 Internet connection still offline after 11 attempts (browser says it is still offline)
+warn: Dec-12 19:31:23.153 Internet connection still offline after 12 attempts (browser says it is still offline)
+warn: Dec-12 19:31:24.153 Internet connection still offline after 13 attempts (browser says it is still offline)
+warn: Dec-12 19:31:25.154 Internet connection still offline after 14 attempts (browser says it is still offline)
+warn: Dec-12 19:31:26.154 Internet connection still offline after 15 attempts (browser says it is still offline)
+warn: Dec-12 19:31:27.155 Internet connection still offline after 16 attempts (browser says it is still offline)
+warn: Dec-12 19:31:28.155 Internet connection still offline after 17 attempts (browser says it is still offline)
+warn: Dec-12 19:31:29.156 Internet connection still offline after 18 attempts (browser says it is still offline)
+warn: Dec-12 19:31:30.156 Internet connection still offline after 19 attempts (browser says it is still offline)
+warn: Dec-12 19:31:31.157 Internet connection still offline after 20 attempts (browser says it is still offline)
+warn: Dec-12 19:31:32.157 Internet connection still offline after 21 attempts (browser says it is still offline)
+warn: Dec-12 19:31:33.158 Internet connection still offline after 22 attempts (browser says it is still offline)
+warn: Dec-12 19:31:34.158 Internet connection still offline after 23 attempts (browser says it is still offline)
+warn: Dec-12 19:31:35.159 Internet connection still offline after 24 attempts (browser says it is still offline)
+warn: Dec-12 19:31:36.159 Internet connection still offline after 25 attempts (browser says it is still offline)
+warn: Dec-12 19:31:37.160 Internet connection still offline after 26 attempts (browser says it is still offline)
+warn: Dec-12 19:31:38.160 Internet connection still offline after 27 attempts (browser says it is still offline)
+warn: Dec-12 19:31:39.160 Internet connection still offline after 28 attempts (browser says it is still offline)
+warn: Dec-12 19:31:40.161 Internet connection still offline after 29 attempts (browser says it is still offline)
+warn: Dec-12 19:31:41.161 Internet connection still offline after 30 attempts (browser says it is still offline)
+warn: Dec-12 19:31:42.162 Internet connection still offline after 31 attempts (browser says it is still offline)
+warn: Dec-12 19:31:43.162 Internet connection still offline after 32 attempts (browser says it is still offline)
+warn: Dec-12 19:31:44.163 Internet connection still offline after 33 attempts (browser says it is still offline)
+warn: Dec-12 19:31:45.163 Internet connection still offline after 34 attempts (browser says it is still offline)
+warn: Dec-12 19:31:46.164 Internet connection still offline after 35 attempts (browser says it is still offline)
+warn: Dec-12 19:31:47.305 Internet connection still offline after 36 attempts (unable to reach API)
+info: Dec-12 19:31:48.704 [INFO] Internet connection has been re-established after 37 retry attempts; offline for NaN seconds
+info: Dec-12 19:31:48.704 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Dec-12 19:31:48.704 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Dec-12 19:31:48.705 [SOCKET-MANAGER] (T771AR265) Changing from wait_for_rate_limit to connect
+info: Dec-12 19:31:48.706 [SOCKET-MANAGER] (T771AR265) will stay in connect state for up to 10000 ms
+info: Dec-12 19:31:48.706 [SOCKET-MANAGER] (T771AR265) Changing from connect to checking_fast_reconnect
+info: Dec-12 19:31:48.706 [SOCKET-MANAGER] (T771AR265) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Dec-12 19:31:48.708 [SOCKET-MANAGER] (T771AR265) Changing from checking_fast_reconnect to prov_connect
+info: Dec-12 19:31:48.708 [SOCKET-MANAGER] (T771AR265) will stay in prov_connect state for up to 10000 ms
+info: Dec-12 19:31:48.709 [SOCKET-MANAGER] (T771AR265) Changing from prov_connect to prov_connecting
+info: Dec-12 19:31:48.709 [SOCKET-MANAGER] (T771AR265) will stay in prov_connecting state for up to 20000 ms
+info: Dec-12 19:31:49.890 [SOCKET-MANAGER] (T771AR265) Changing from prov_connecting to prov_connected
+info: Dec-12 19:31:49.900 [SOCKET-MANAGER] (T771AR265) will stay in prov_connected state for up to 60000 ms
+info: Dec-12 19:31:49.940 [INFO] Got start data from Socket Manager; hydrating it
+warn: 2017/12/12 19:31:49.960  Received a reply to a message we have no record of sending (reply_to = 498, type = message)
+info: Dec-12 19:31:49.128 [INFO] Successfully hydrated start data from Socket Manager; processing it
+info: Dec-12 19:31:49.589 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Dec-12 19:31:49.589 [SOCKET-MANAGER] (T771AR265) Changing from prov_connected to prov_finalize
+info: Dec-12 19:31:49.589 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalize state for up to 10000 ms
+info: Dec-12 19:31:49.590 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalize to prov_finalizing
+info: Dec-12 19:31:49.590 [SOCKET-MANAGER] (T771AR265) will stay in prov_finalizing state for up to 10000 ms
+info: Dec-12 19:31:49.591 [SOCKET-MANAGER] (T771AR265) Changing from prov_finalizing to connected
+info: Dec-12 19:31:49.591 [SOCKET-MANAGER] (T771AR265) will stay in connected state for up to Infinity ms
+info: Dec-12 19:31:49.593 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Dec-12 19:31:49.594 [EVENTLOG] fr=false, lc=false, lt=1513125762.000016
+info: Dec-12 19:31:49.594 [EVENTLOG] fetching events since 1513125762.000016 (-18652.000015974045 seconds ago)
+info: Dec-12 19:31:49.807 [EVENTLOG] nothing to process
+info: Dec-12 19:31:49.808 [EVENTLOG] fetched finish (cancelled? false)
+info: Dec-12 19:31:49.808 [EVENTLOG] dispatching signal and clearing timestamp
+info: Dec-12 19:31:49.837 [INFO] Finished processing users.counts
+info: Dec-12 19:31:49.837 [INFO] 0 IMs with unreads, 0 total dm_count
+info: Dec-12 19:35:44.397 [SOCKET-MANAGER] (T771AR265) got offline event; moving to DISCONNECT as needed
+info: Dec-12 19:35:44.399 [SOCKET-MANAGER] (T771AR265) Changing from connected to disconnect
+info: Dec-12 19:35:44.402 [SOCKET-MANAGER] (T771AR265) will stay in disconnect state for up to 10000 ms
+info: Dec-12 19:35:44.404 [SOCKET-MANAGER] (T771AR265) Changing from disconnect to disconnecting
+info: Dec-12 19:35:44.404 [SOCKET-MANAGER] (T771AR265) will stay in disconnecting state for up to 10000 ms
+info: Dec-12 19:35:44.408 [SOCKET-MANAGER] (T771AR265) Changing from disconnecting to disconnected
+info: Dec-12 19:35:44.408 [SOCKET-MANAGER] (T771AR265) will stay in disconnected state for up to 10000 ms
+info: Dec-12 19:35:44.411 [SOCKET-MANAGER] (T771AR265) Disconnected! Online? false
+info: Dec-12 19:35:44.412 [SOCKET-MANAGER] (T771AR265) Changing from disconnected to wait_for_connectivity
+info: Dec-12 19:35:44.412 [SOCKET-MANAGER] (T771AR265) will stay in wait_for_connectivity state for up to 300000 ms
+info: Dec-12 19:35:44.419 [INFO] Hiding the reconnection banner because we are disconnected
+warn: Dec-12 19:54:26.130 Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: Dec-12 19:54:27.131 Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: Dec-12 19:54:28.131 Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: Dec-12 19:54:29.132 Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: Dec-12 19:54:30.132 Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: Dec-12 19:54:31.133 Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: Dec-12 19:54:32.133 Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: Dec-12 19:54:33.134 Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: Dec-12 19:54:34.134 Internet connection still offline after 9 attempts (browser says it is still offline)
+warn: Dec-12 19:54:35.135 Internet connection still offline after 10 attempts (browser says it is still offline)
+warn: Dec-12 19:54:36.135 Internet connection still offline after 11 attempts (browser says it is still offline)
+warn: Dec-12 19:54:37.136 Internet connection still offline after 12 attempts (browser says it is still offline)
+warn: Dec-12 19:54:38.136 Internet connection still offline after 13 attempts (browser says it is still offline)
+warn: Dec-12 19:54:39.137 Internet connection still offline after 14 attempts (browser says it is still offline)
+warn: Dec-12 19:54:40.137 Internet connection still offline after 15 attempts (browser says it is still offline)
+warn: Dec-12 19:54:41.138 Internet connection still offline after 16 attempts (browser says it is still offline)
+warn: Dec-12 19:54:42.139 Internet connection still offline after 17 attempts (browser says it is still offline)
+warn: Dec-12 19:54:43.139 Internet connection still offline after 18 attempts (browser says it is still offline)
+warn: Dec-12 19:54:44.140 Internet connection still offline after 19 attempts (browser says it is still offline)
+warn: Dec-12 19:54:45.140 Internet connection still offline after 20 attempts (browser says it is still offline)
+warn: Dec-12 19:54:46.140 Internet connection still offline after 21 attempts (browser says it is still offline)
+warn: Dec-12 19:54:47.141 Internet connection still offline after 22 attempts (browser says it is still offline)
+warn: Dec-12 19:54:48.141 Internet connection still offline after 23 attempts (browser says it is still offline)
+warn: Dec-12 19:54:49.142 Internet connection still offline after 24 attempts (browser says it is still offline)
+warn: Dec-12 19:54:50.142 Internet connection still offline after 25 attempts (browser says it is still offline)
+warn: Dec-12 19:54:51.143 Internet connection still offline after 26 attempts (browser says it is still offline)
+warn: Dec-12 19:54:52.145 Internet connection still offline after 27 attempts (browser says it is still offline)
+warn: Dec-12 19:54:53.153 Internet connection still offline after 28 attempts (browser says it is still offline)
+warn: Dec-12 19:54:54.153 Internet connection still offline after 29 attempts (browser says it is still offline)
+warn: Dec-12 19:54:55.154 Internet connection still offline after 30 attempts (browser says it is still offline)
+warn: Dec-12 19:54:56.154 Internet connection still offline after 31 attempts (browser says it is still offline)
+warn: Dec-12 19:54:57.155 Internet connection still offline after 32 attempts (browser says it is still offline)
+warn: Dec-12 19:54:58.155 Internet connection still offline after 33 attempts (browser says it is still offline)
+warn: Dec-12 19:54:59.156 Internet connection still offline after 34 attempts (browser says it is still offline)
+warn: Dec-12 19:55:00.156 Internet connection still offline after 35 attempts (browser says it is still offline)
+warn: Dec-12 19:55:01.157 Internet connection still offline after 36 attempts (browser says it is still offline)
+warn: Dec-12 19:55:02.157 Internet connection still offline after 37 attempts (browser says it is still offline)
+warn: Dec-12 19:55:03.158 Internet connection still offline after 38 attempts (browser says it is still offline)
+warn: Dec-12 22:18:51.119 Internet connection still offline after 39 attempts (browser says it is still offline)
+warn: Dec-12 22:18:52.120 Internet connection still offline after 40 attempts (browser says it is still offline)
+warn: Dec-12 22:18:53.120 Internet connection still offline after 41 attempts (browser says it is still offline)
+warn: Dec-12 22:18:54.122 Internet connection still offline after 42 attempts (browser says it is still offline)
+warn: Dec-12 22:18:55.125 Internet connection still offline after 43 attempts (browser says it is still offline)
+warn: Dec-12 22:18:56.125 Internet connection still offline after 44 attempts (browser says it is still offline)
+warn: Dec-12 22:18:57.126 Internet connection still offline after 45 attempts (browser says it is still offline)
+warn: Dec-12 22:18:58.127 Internet connection still offline after 46 attempts (browser says it is still offline)
+info: ╔══════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.11-1-ARCH on x64 at 12/23/17, 16:30:51:723      ║
+info: ╚══════════════════════════════════════════════════════════════════════════════╝

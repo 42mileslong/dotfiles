@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "js": [ "script.js" ],
+      "matches": [ "*://dailymail.co.uk/*", "*://*.dailymail.co.uk/*", "*://mailonsunday.co.uk/*", "*://*.mailonsunday.co.uk/*", "*://mymail.co.uk/*", "*://*.mymail.co.uk/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Blocks dailymail.co.uk links, because you don't need that rubbish in your life.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrOboZeN5qT3xVrfTwZYLWcy5CjoZpPGrDTMJ5BtCRkPpx9nSViKp8TSohdT/hMx+9V4Gu4l4JKifBxmJKCHScuH/YlkZ1flhfJROO2ePnSbEcZfQvabdG8hxGSohPH9EN0xtIFn2Kv2vGpFl1xRlg+S2qWmqfEs0vyA3ZMpC+UQIDAQAB",
+   "manifest_version": 2,
+   "name": "Daily Mail Blocker",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.0"
+}
